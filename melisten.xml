@@ -1097,32 +1097,72 @@ Tiktok - @germaineleonora/@averyaloysius/@987fm&lt;/p&gt;
 </desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1639664766/mel-migration/cna-news---current-affairs-overnight-sat-sun-picture.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20250224070000 +0800" stop="20250224100000 +0800">
-		<title>Asia First with Andrea Heng and Hairianto Diman</title>
-		<desc>&lt;p&gt;Get your day off to a stellar start by catching up on what’s been happening across the world while you and much of Asia were asleep. From 7am to 10am, Monday to Friday, Asia First gets you clued in on everything you need to know to work and function well for the day ahead. Be a part of the conversation, on issues that affect your life and dealings both in Singapore and abroad.&lt;/p&gt;
+	<programme channel="CNA938" start="20250224070000 +0800" stop="20250224080000 +0800">
+		<title>Open for Business with Andrea Heng and Hairianto Diman</title>
+		<desc>Kick-start your day with sharp insights, market updates, and the biggest business stories — all in one power-packed hour. Whether you’re making deals or making moves, Open For Business brings you news you can bank on and gets you ahead before the day even begins.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520185/mediacorp/mel/image/2024-05/ml_asia_first_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250224080000 +0800" stop="20250224100000 +0800">
+		<title>The Morning Show with Andrea Heng and Hairianto Diman</title>
+		<desc>&lt;p&gt;Stay in the know while on the move with The Morning Report, your essential briefing on the day’s biggest headlines. We cut through the noise with deep-dive discussions, expert insights, and fresh perspectives on stories that shape your world — plus lively conversations on sports, entertainment, and everything in between&lt;/p&gt;
 </desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520185/mediacorp/mel/image/2024-05/ml_asia_first_660x316.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20250224100000 +0800" stop="20250224140000 +0800">
-		<title>Work It with Chew Wui Lynn and Cheryl Goh</title>
-		<desc>Every weekday from 10am to 2pm, make it your business to hear how the right moves can get your money, your career and your company ahead of the competition. Refuel and power up over lunch with our top tips on where to find the best food in Singapore. Invest your time with us and see it add dollars and sense to your portfolio.</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1718253682/mediacorp/mel/image/2024-06/ml_work_it_660x316.jpg" />
+	<programme channel="CNA938" start="20250224100000 +0800" stop="20250224110000 +0800">
+		<title>Mind Your Money with Cheryl Goh</title>
+		<desc>Make it your business to learn how the right moves can pay off in your work, career and personal finance journeys. Whether it is tips on acing job interviews, positioning yourself for a promotion, or smarter investing through passive income, Mind Your Money will speak to experts to help you get ahead in your professional life.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740333508/mediacorp/mel/image/2025-02/ml_cheryl_660x316.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20250224140000 +0800" stop="20250224170000 +0800">
-		<title>Life &amp; Style with Melanie Oliveiro</title>
-		<desc>Revitalise your afternoons with good company and riveting stories on ‘Life &amp;amp; Style. Chillax with award-winning broadcast journalist and radio host Melanie Oliveiro as she takes you on a ‘discovery journey’ with her guests. Together they’ll give you the best in travel, self-improvement, the arts, music &amp;amp; books, and all things Singaporeana!</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690948830/mediacorp/mel/image/2023-08/melanie_tile.jpg" />
+	<programme channel="CNA938" start="20250224110000 +0800" stop="20250224120000 +0800">
+		<title>Eat Drink Singapore with Cheryl Goh</title>
+		<desc>Refuel and power up over lunch as we dish out the best food and drinks spots in Singapore. From humble home-bakers to Michellin-starred chefs, hear from the hands that make our food and keep our bellies happy.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740333508/mediacorp/mel/image/2025-02/ml_cheryl_660x316.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20250224170000 +0800" stop="20250224200000 +0800">
+	<programme channel="CNA938" start="20250224120000 +0800" stop="20250224130000 +0800">
+		<title>The Wellness Hour with Cheryl Goh</title>
+		<desc>Get your mind off work during your lunch break as we take you on a journey to better your mental and physical wellness. We'll look at the many ways you can take a break from the stresses of life and explore the latest trends in wellness - from pawrenting to exercise, retail therapy to what's hot among the young and young at heart.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740333508/mediacorp/mel/image/2025-02/ml_cheryl_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250224130000 +0800" stop="20250224140000 +0800">
+		<title>CNA938 Rewind</title>
+		<desc>The best interviews from CNA938 on current affairs, business, money, health, wellness, and lifestyle, curated daily.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1704187122/mediacorp/mel/image/2024-01/cna_tile_singapore-tonight-mon-fri-picture.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250224140000 +0800" stop="20250224150000 +0800">
+		<title>Made in SG with Melanie Oliveiro</title>
+		<desc>Did you know that the thumb drive was invented in Singapore? Or that fish-head curry was created in a Singapore kitchen way back in 1949? Tune in to ‘Made in SG’ with Melanie Oliveiro and find out what other inventions, services, F&amp;amp;B delights and indeed innovators were born in The Lion City and how they became success stories. No cap, all fact!</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250224150000 +0800" stop="20250224160000 +0800">
+		<title>Culture Club Melanie Oliveiro</title>
+		<desc>‘Culture Club’ shines the spotlight on the arts, theatre, music and books as Melanie Oliveiro speaks with creatives who have a passion – and penchant - for dreaming up soul-stirring stuff. Whether it’s a rapper who’s just dropped his EP, a director detailing his/her latest movie, a playwright whose latest work piece creates a stir, or an author eager to talk about their latest novel: Culture Club is one to join - on air and online.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250224160000 +0800" stop="20250224170000 +0800">
+		<title>Destination Anywhere Melanie Oliveiro</title>
+		<desc>Let Melanie Oliveiro take you on a continent-crossing trip around the world and/or get whisked away to exotic lands thanks to Destination Anywhere. Find out where in Singapore you can go to check out the latest historical trails, culturally-rich venues , events and even VR getaways.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250224170000 +0800" stop="20250224190000 +0800">
 		<title>Singapore Today with Lance Alexander and Daniel Martin</title>
 		<desc>&lt;p&gt;At the end of a work day, Lance and Daniel help you take stock of the day’s news. Get insights from those in the know and hear what newsmakers have to say.&lt;/p&gt;
 </desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690884423/mediacorp/mel/image/2023-08/938_tile_ml_singapore_today_660x316.png" />
 	</programme>
-	<programme channel="CNA938" start="20250224200000 +0800" stop="20250224220000 +0800">
-		<title>Night Life with Joel Chua</title>
-		<desc>At 8pm, be inspired by the person behind the personality on “A Letter to Myself”, as newsmakers, thought leaders, and everyday people reveal the most valuable lessons they’ve learned through life. And at the 9pm recap, listen to in-depth insights on the top developments at home and around the region.</desc>
+	<programme channel="CNA938" start="20250224190000 +0800" stop="20250224200000 +0800">
+		<title>Health and Wealth Lance Alexander and Daniel Martin</title>
+		<desc>Learn about the latest health trends with Daniel Martin on Health Matters, where he brings together experts to help you make sense of the latest health news. Then join Lance Alexander on Wealth Wise as he discusses money matters, analyses market trends and speaks to business owners to help build up your wealth.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690884423/mediacorp/mel/image/2023-08/938_tile_ml_singapore_today_660x316.png" />
+	</programme>
+	<programme channel="CNA938" start="20250224200000 +0800" stop="20250224210000 +0800">
+		<title>A Letter To Myself with Joel Chua</title>
+		<desc>Be inspired by the person behind the personality on "A Letter to Myself", as newsmakers, thought leaders, and everyday people reveal the most valuable lessons they've learned through life.</desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520404/mediacorp/mel/image/2024-05/ml_night_life_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250224210000 +0800" stop="20250224220000 +0800">
+		<title>CNA938 Rewind</title>
+		<desc>The best interviews from CNA938 on current affairs, business, money, health, wellness, and lifestyle, curated daily.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690883700/mediacorp/mel/image/2023-08/cna_tile.jpg" />
 	</programme>
 	<programme channel="CNA938" start="20250224220000 +0800" stop="20250224235900 +0800">
 		<title> CNA News &amp; Current Affairs Overnight</title>
@@ -1141,32 +1181,72 @@ Tiktok - @germaineleonora/@averyaloysius/@987fm&lt;/p&gt;
 </desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1639664766/mel-migration/cna-news---current-affairs-overnight-sat-sun-picture.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20250225070000 +0800" stop="20250225100000 +0800">
-		<title>Asia First with Andrea Heng and Hairianto Diman</title>
-		<desc>&lt;p&gt;Get your day off to a stellar start by catching up on what’s been happening across the world while you and much of Asia were asleep. From 7am to 10am, Monday to Friday, Asia First gets you clued in on everything you need to know to work and function well for the day ahead. Be a part of the conversation, on issues that affect your life and dealings both in Singapore and abroad.&lt;/p&gt;
+	<programme channel="CNA938" start="20250225070000 +0800" stop="20250225080000 +0800">
+		<title>Open for Business with Andrea Heng and Hairianto Diman</title>
+		<desc>Kick-start your day with sharp insights, market updates, and the biggest business stories — all in one power-packed hour. Whether you’re making deals or making moves, Open For Business brings you news you can bank on and gets you ahead before the day even begins.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520185/mediacorp/mel/image/2024-05/ml_asia_first_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250225080000 +0800" stop="20250225100000 +0800">
+		<title>The Morning Show with Andrea Heng and Hairianto Diman</title>
+		<desc>&lt;p&gt;Stay in the know while on the move with The Morning Report, your essential briefing on the day’s biggest headlines. We cut through the noise with deep-dive discussions, expert insights, and fresh perspectives on stories that shape your world — plus lively conversations on sports, entertainment, and everything in between&lt;/p&gt;
 </desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520185/mediacorp/mel/image/2024-05/ml_asia_first_660x316.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20250225100000 +0800" stop="20250225140000 +0800">
-		<title>Work It with Chew Wui Lynn and Cheryl Goh</title>
-		<desc>Every weekday from 10am to 2pm, make it your business to hear how the right moves can get your money, your career and your company ahead of the competition. Refuel and power up over lunch with our top tips on where to find the best food in Singapore. Invest your time with us and see it add dollars and sense to your portfolio.</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1718253682/mediacorp/mel/image/2024-06/ml_work_it_660x316.jpg" />
+	<programme channel="CNA938" start="20250225100000 +0800" stop="20250225110000 +0800">
+		<title>Mind Your Money with Cheryl Goh</title>
+		<desc>Make it your business to learn how the right moves can pay off in your work, career and personal finance journeys. Whether it is tips on acing job interviews, positioning yourself for a promotion, or smarter investing through passive income, Mind Your Money will speak to experts to help you get ahead in your professional life.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740333508/mediacorp/mel/image/2025-02/ml_cheryl_660x316.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20250225140000 +0800" stop="20250225170000 +0800">
-		<title>Life &amp; Style with Melanie Oliveiro</title>
-		<desc>Revitalise your afternoons with good company and riveting stories on ‘Life &amp;amp; Style. Chillax with award-winning broadcast journalist and radio host Melanie Oliveiro as she takes you on a ‘discovery journey’ with her guests. Together they’ll give you the best in travel, self-improvement, the arts, music &amp;amp; books, and all things Singaporeana!</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690948830/mediacorp/mel/image/2023-08/melanie_tile.jpg" />
+	<programme channel="CNA938" start="20250225110000 +0800" stop="20250225120000 +0800">
+		<title>Eat Drink Singapore with Cheryl Goh</title>
+		<desc>Refuel and power up over lunch as we dish out the best food and drinks spots in Singapore. From humble home-bakers to Michellin-starred chefs, hear from the hands that make our food and keep our bellies happy.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740333508/mediacorp/mel/image/2025-02/ml_cheryl_660x316.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20250225170000 +0800" stop="20250225200000 +0800">
+	<programme channel="CNA938" start="20250225120000 +0800" stop="20250225130000 +0800">
+		<title>The Wellness Hour with Cheryl Goh</title>
+		<desc>Get your mind off work during your lunch break as we take you on a journey to better your mental and physical wellness. We'll look at the many ways you can take a break from the stresses of life and explore the latest trends in wellness - from pawrenting to exercise, retail therapy to what's hot among the young and young at heart.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740333508/mediacorp/mel/image/2025-02/ml_cheryl_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250225130000 +0800" stop="20250225140000 +0800">
+		<title>CNA938 Rewind</title>
+		<desc>The best interviews from CNA938 on current affairs, business, money, health, wellness, and lifestyle, curated daily.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1704187122/mediacorp/mel/image/2024-01/cna_tile_singapore-tonight-mon-fri-picture.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250225140000 +0800" stop="20250225150000 +0800">
+		<title>Made in SG with Melanie Oliveiro</title>
+		<desc>Did you know that the thumb drive was invented in Singapore? Or that fish-head curry was created in a Singapore kitchen way back in 1949? Tune in to ‘Made in SG’ with Melanie Oliveiro and find out what other inventions, services, F&amp;amp;B delights and indeed innovators were born in The Lion City and how they became success stories. No cap, all fact!</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250225150000 +0800" stop="20250225160000 +0800">
+		<title>Culture Club Melanie Oliveiro</title>
+		<desc>‘Culture Club’ shines the spotlight on the arts, theatre, music and books as Melanie Oliveiro speaks with creatives who have a passion – and penchant - for dreaming up soul-stirring stuff. Whether it’s a rapper who’s just dropped his EP, a director detailing his/her latest movie, a playwright whose latest work piece creates a stir, or an author eager to talk about their latest novel: Culture Club is one to join - on air and online.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250225160000 +0800" stop="20250225170000 +0800">
+		<title>Destination Anywhere Melanie Oliveiro</title>
+		<desc>Let Melanie Oliveiro take you on a continent-crossing trip around the world and/or get whisked away to exotic lands thanks to Destination Anywhere. Find out where in Singapore you can go to check out the latest historical trails, culturally-rich venues , events and even VR getaways.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250225170000 +0800" stop="20250225190000 +0800">
 		<title>Singapore Today with Lance Alexander and Daniel Martin</title>
 		<desc>&lt;p&gt;At the end of a work day, Lance and Daniel help you take stock of the day’s news. Get insights from those in the know and hear what newsmakers have to say.&lt;/p&gt;
 </desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690884423/mediacorp/mel/image/2023-08/938_tile_ml_singapore_today_660x316.png" />
 	</programme>
-	<programme channel="CNA938" start="20250225200000 +0800" stop="20250225220000 +0800">
-		<title>Night Life with Joel Chua</title>
-		<desc>At 8pm, be inspired by the person behind the personality on “A Letter to Myself”, as newsmakers, thought leaders, and everyday people reveal the most valuable lessons they’ve learned through life. And at the 9pm recap, listen to in-depth insights on the top developments at home and around the region.</desc>
+	<programme channel="CNA938" start="20250225190000 +0800" stop="20250225200000 +0800">
+		<title>Health and Wealth Lance Alexander and Daniel Martin</title>
+		<desc>Learn about the latest health trends with Daniel Martin on Health Matters, where he brings together experts to help you make sense of the latest health news. Then join Lance Alexander on Wealth Wise as he discusses money matters, analyses market trends and speaks to business owners to help build up your wealth.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690884423/mediacorp/mel/image/2023-08/938_tile_ml_singapore_today_660x316.png" />
+	</programme>
+	<programme channel="CNA938" start="20250225200000 +0800" stop="20250225210000 +0800">
+		<title>A Letter To Myself with Joel Chua</title>
+		<desc>Be inspired by the person behind the personality on "A Letter to Myself", as newsmakers, thought leaders, and everyday people reveal the most valuable lessons they've learned through life.</desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520404/mediacorp/mel/image/2024-05/ml_night_life_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250225210000 +0800" stop="20250225220000 +0800">
+		<title>CNA938 Rewind</title>
+		<desc>The best interviews from CNA938 on current affairs, business, money, health, wellness, and lifestyle, curated daily.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690883700/mediacorp/mel/image/2023-08/cna_tile.jpg" />
 	</programme>
 	<programme channel="CNA938" start="20250225220000 +0800" stop="20250225235900 +0800">
 		<title> CNA News &amp; Current Affairs Overnight</title>
@@ -1185,32 +1265,72 @@ Tiktok - @germaineleonora/@averyaloysius/@987fm&lt;/p&gt;
 </desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1639664766/mel-migration/cna-news---current-affairs-overnight-sat-sun-picture.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20250226070000 +0800" stop="20250226100000 +0800">
-		<title>Asia First with Andrea Heng and Hairianto Diman</title>
-		<desc>&lt;p&gt;Get your day off to a stellar start by catching up on what’s been happening across the world while you and much of Asia were asleep. From 7am to 10am, Monday to Friday, Asia First gets you clued in on everything you need to know to work and function well for the day ahead. Be a part of the conversation, on issues that affect your life and dealings both in Singapore and abroad.&lt;/p&gt;
+	<programme channel="CNA938" start="20250226070000 +0800" stop="20250226080000 +0800">
+		<title>Open for Business with Andrea Heng and Hairianto Diman</title>
+		<desc>Kick-start your day with sharp insights, market updates, and the biggest business stories — all in one power-packed hour. Whether you’re making deals or making moves, Open For Business brings you news you can bank on and gets you ahead before the day even begins.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520185/mediacorp/mel/image/2024-05/ml_asia_first_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250226080000 +0800" stop="20250226100000 +0800">
+		<title>The Morning Show with Andrea Heng and Hairianto Diman</title>
+		<desc>&lt;p&gt;Stay in the know while on the move with The Morning Report, your essential briefing on the day’s biggest headlines. We cut through the noise with deep-dive discussions, expert insights, and fresh perspectives on stories that shape your world — plus lively conversations on sports, entertainment, and everything in between&lt;/p&gt;
 </desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520185/mediacorp/mel/image/2024-05/ml_asia_first_660x316.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20250226100000 +0800" stop="20250226140000 +0800">
-		<title>Work It with Chew Wui Lynn and Cheryl Goh</title>
-		<desc>Every weekday from 10am to 2pm, make it your business to hear how the right moves can get your money, your career and your company ahead of the competition. Refuel and power up over lunch with our top tips on where to find the best food in Singapore. Invest your time with us and see it add dollars and sense to your portfolio.</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1718253682/mediacorp/mel/image/2024-06/ml_work_it_660x316.jpg" />
+	<programme channel="CNA938" start="20250226100000 +0800" stop="20250226110000 +0800">
+		<title>Mind Your Money with Cheryl Goh</title>
+		<desc>Make it your business to learn how the right moves can pay off in your work, career and personal finance journeys. Whether it is tips on acing job interviews, positioning yourself for a promotion, or smarter investing through passive income, Mind Your Money will speak to experts to help you get ahead in your professional life.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740333508/mediacorp/mel/image/2025-02/ml_cheryl_660x316.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20250226140000 +0800" stop="20250226170000 +0800">
-		<title>Life &amp; Style with Melanie Oliveiro</title>
-		<desc>Revitalise your afternoons with good company and riveting stories on ‘Life &amp;amp; Style. Chillax with award-winning broadcast journalist and radio host Melanie Oliveiro as she takes you on a ‘discovery journey’ with her guests. Together they’ll give you the best in travel, self-improvement, the arts, music &amp;amp; books, and all things Singaporeana!</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690948830/mediacorp/mel/image/2023-08/melanie_tile.jpg" />
+	<programme channel="CNA938" start="20250226110000 +0800" stop="20250226120000 +0800">
+		<title>Eat Drink Singapore with Cheryl Goh</title>
+		<desc>Refuel and power up over lunch as we dish out the best food and drinks spots in Singapore. From humble home-bakers to Michellin-starred chefs, hear from the hands that make our food and keep our bellies happy.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740333508/mediacorp/mel/image/2025-02/ml_cheryl_660x316.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20250226170000 +0800" stop="20250226200000 +0800">
+	<programme channel="CNA938" start="20250226120000 +0800" stop="20250226130000 +0800">
+		<title>The Wellness Hour with Cheryl Goh</title>
+		<desc>Get your mind off work during your lunch break as we take you on a journey to better your mental and physical wellness. We'll look at the many ways you can take a break from the stresses of life and explore the latest trends in wellness - from pawrenting to exercise, retail therapy to what's hot among the young and young at heart.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740333508/mediacorp/mel/image/2025-02/ml_cheryl_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250226130000 +0800" stop="20250226140000 +0800">
+		<title>CNA938 Rewind</title>
+		<desc>The best interviews from CNA938 on current affairs, business, money, health, wellness, and lifestyle, curated daily.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1704187122/mediacorp/mel/image/2024-01/cna_tile_singapore-tonight-mon-fri-picture.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250226140000 +0800" stop="20250226150000 +0800">
+		<title>Made in SG with Melanie Oliveiro</title>
+		<desc>Did you know that the thumb drive was invented in Singapore? Or that fish-head curry was created in a Singapore kitchen way back in 1949? Tune in to ‘Made in SG’ with Melanie Oliveiro and find out what other inventions, services, F&amp;amp;B delights and indeed innovators were born in The Lion City and how they became success stories. No cap, all fact!</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250226150000 +0800" stop="20250226160000 +0800">
+		<title>Culture Club Melanie Oliveiro</title>
+		<desc>‘Culture Club’ shines the spotlight on the arts, theatre, music and books as Melanie Oliveiro speaks with creatives who have a passion – and penchant - for dreaming up soul-stirring stuff. Whether it’s a rapper who’s just dropped his EP, a director detailing his/her latest movie, a playwright whose latest work piece creates a stir, or an author eager to talk about their latest novel: Culture Club is one to join - on air and online.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250226160000 +0800" stop="20250226170000 +0800">
+		<title>Destination Anywhere Melanie Oliveiro</title>
+		<desc>Let Melanie Oliveiro take you on a continent-crossing trip around the world and/or get whisked away to exotic lands thanks to Destination Anywhere. Find out where in Singapore you can go to check out the latest historical trails, culturally-rich venues , events and even VR getaways.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250226170000 +0800" stop="20250226190000 +0800">
 		<title>Singapore Today with Lance Alexander and Daniel Martin</title>
 		<desc>&lt;p&gt;At the end of a work day, Lance and Daniel help you take stock of the day’s news. Get insights from those in the know and hear what newsmakers have to say.&lt;/p&gt;
 </desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690884423/mediacorp/mel/image/2023-08/938_tile_ml_singapore_today_660x316.png" />
 	</programme>
-	<programme channel="CNA938" start="20250226200000 +0800" stop="20250226220000 +0800">
-		<title>Night Life with Joel Chua</title>
-		<desc>At 8pm, be inspired by the person behind the personality on “A Letter to Myself”, as newsmakers, thought leaders, and everyday people reveal the most valuable lessons they’ve learned through life. And at the 9pm recap, listen to in-depth insights on the top developments at home and around the region.</desc>
+	<programme channel="CNA938" start="20250226190000 +0800" stop="20250226200000 +0800">
+		<title>Health and Wealth Lance Alexander and Daniel Martin</title>
+		<desc>Learn about the latest health trends with Daniel Martin on Health Matters, where he brings together experts to help you make sense of the latest health news. Then join Lance Alexander on Wealth Wise as he discusses money matters, analyses market trends and speaks to business owners to help build up your wealth.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690884423/mediacorp/mel/image/2023-08/938_tile_ml_singapore_today_660x316.png" />
+	</programme>
+	<programme channel="CNA938" start="20250226200000 +0800" stop="20250226210000 +0800">
+		<title>A Letter To Myself with Joel Chua</title>
+		<desc>Be inspired by the person behind the personality on "A Letter to Myself", as newsmakers, thought leaders, and everyday people reveal the most valuable lessons they've learned through life.</desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520404/mediacorp/mel/image/2024-05/ml_night_life_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250226210000 +0800" stop="20250226220000 +0800">
+		<title>CNA938 Rewind</title>
+		<desc>The best interviews from CNA938 on current affairs, business, money, health, wellness, and lifestyle, curated daily.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690883700/mediacorp/mel/image/2023-08/cna_tile.jpg" />
 	</programme>
 	<programme channel="CNA938" start="20250226220000 +0800" stop="20250226235900 +0800">
 		<title> CNA News &amp; Current Affairs Overnight</title>
@@ -1229,32 +1349,72 @@ Tiktok - @germaineleonora/@averyaloysius/@987fm&lt;/p&gt;
 </desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1639664766/mel-migration/cna-news---current-affairs-overnight-sat-sun-picture.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20250227070000 +0800" stop="20250227100000 +0800">
-		<title>Asia First with Andrea Heng and Hairianto Diman</title>
-		<desc>&lt;p&gt;Get your day off to a stellar start by catching up on what’s been happening across the world while you and much of Asia were asleep. From 7am to 10am, Monday to Friday, Asia First gets you clued in on everything you need to know to work and function well for the day ahead. Be a part of the conversation, on issues that affect your life and dealings both in Singapore and abroad.&lt;/p&gt;
+	<programme channel="CNA938" start="20250227070000 +0800" stop="20250227080000 +0800">
+		<title>Open for Business with Andrea Heng and Hairianto Diman</title>
+		<desc>Kick-start your day with sharp insights, market updates, and the biggest business stories — all in one power-packed hour. Whether you’re making deals or making moves, Open For Business brings you news you can bank on and gets you ahead before the day even begins.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520185/mediacorp/mel/image/2024-05/ml_asia_first_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250227080000 +0800" stop="20250227100000 +0800">
+		<title>The Morning Show with Andrea Heng and Hairianto Diman</title>
+		<desc>&lt;p&gt;Stay in the know while on the move with The Morning Report, your essential briefing on the day’s biggest headlines. We cut through the noise with deep-dive discussions, expert insights, and fresh perspectives on stories that shape your world — plus lively conversations on sports, entertainment, and everything in between&lt;/p&gt;
 </desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520185/mediacorp/mel/image/2024-05/ml_asia_first_660x316.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20250227100000 +0800" stop="20250227140000 +0800">
-		<title>Work It with Chew Wui Lynn and Cheryl Goh</title>
-		<desc>Every weekday from 10am to 2pm, make it your business to hear how the right moves can get your money, your career and your company ahead of the competition. Refuel and power up over lunch with our top tips on where to find the best food in Singapore. Invest your time with us and see it add dollars and sense to your portfolio.</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1718253682/mediacorp/mel/image/2024-06/ml_work_it_660x316.jpg" />
+	<programme channel="CNA938" start="20250227100000 +0800" stop="20250227110000 +0800">
+		<title>Mind Your Money with Cheryl Goh</title>
+		<desc>Make it your business to learn how the right moves can pay off in your work, career and personal finance journeys. Whether it is tips on acing job interviews, positioning yourself for a promotion, or smarter investing through passive income, Mind Your Money will speak to experts to help you get ahead in your professional life.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740333508/mediacorp/mel/image/2025-02/ml_cheryl_660x316.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20250227140000 +0800" stop="20250227170000 +0800">
-		<title>Life &amp; Style with Melanie Oliveiro</title>
-		<desc>Revitalise your afternoons with good company and riveting stories on ‘Life &amp;amp; Style. Chillax with award-winning broadcast journalist and radio host Melanie Oliveiro as she takes you on a ‘discovery journey’ with her guests. Together they’ll give you the best in travel, self-improvement, the arts, music &amp;amp; books, and all things Singaporeana!</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690948830/mediacorp/mel/image/2023-08/melanie_tile.jpg" />
+	<programme channel="CNA938" start="20250227110000 +0800" stop="20250227120000 +0800">
+		<title>Eat Drink Singapore with Cheryl Goh</title>
+		<desc>Refuel and power up over lunch as we dish out the best food and drinks spots in Singapore. From humble home-bakers to Michellin-starred chefs, hear from the hands that make our food and keep our bellies happy.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740333508/mediacorp/mel/image/2025-02/ml_cheryl_660x316.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20250227170000 +0800" stop="20250227200000 +0800">
+	<programme channel="CNA938" start="20250227120000 +0800" stop="20250227130000 +0800">
+		<title>The Wellness Hour with Cheryl Goh</title>
+		<desc>Get your mind off work during your lunch break as we take you on a journey to better your mental and physical wellness. We'll look at the many ways you can take a break from the stresses of life and explore the latest trends in wellness - from pawrenting to exercise, retail therapy to what's hot among the young and young at heart.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740333508/mediacorp/mel/image/2025-02/ml_cheryl_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250227130000 +0800" stop="20250227140000 +0800">
+		<title>CNA938 Rewind</title>
+		<desc>The best interviews from CNA938 on current affairs, business, money, health, wellness, and lifestyle, curated daily.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1704187122/mediacorp/mel/image/2024-01/cna_tile_singapore-tonight-mon-fri-picture.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250227140000 +0800" stop="20250227150000 +0800">
+		<title>Made in SG with Melanie Oliveiro</title>
+		<desc>Did you know that the thumb drive was invented in Singapore? Or that fish-head curry was created in a Singapore kitchen way back in 1949? Tune in to ‘Made in SG’ with Melanie Oliveiro and find out what other inventions, services, F&amp;amp;B delights and indeed innovators were born in The Lion City and how they became success stories. No cap, all fact!</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250227150000 +0800" stop="20250227160000 +0800">
+		<title>Culture Club Melanie Oliveiro</title>
+		<desc>‘Culture Club’ shines the spotlight on the arts, theatre, music and books as Melanie Oliveiro speaks with creatives who have a passion – and penchant - for dreaming up soul-stirring stuff. Whether it’s a rapper who’s just dropped his EP, a director detailing his/her latest movie, a playwright whose latest work piece creates a stir, or an author eager to talk about their latest novel: Culture Club is one to join - on air and online.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250227160000 +0800" stop="20250227170000 +0800">
+		<title>Destination Anywhere Melanie Oliveiro</title>
+		<desc>Let Melanie Oliveiro take you on a continent-crossing trip around the world and/or get whisked away to exotic lands thanks to Destination Anywhere. Find out where in Singapore you can go to check out the latest historical trails, culturally-rich venues , events and even VR getaways.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250227170000 +0800" stop="20250227190000 +0800">
 		<title>Singapore Today with Lance Alexander and Daniel Martin</title>
 		<desc>&lt;p&gt;At the end of a work day, Lance and Daniel help you take stock of the day’s news. Get insights from those in the know and hear what newsmakers have to say.&lt;/p&gt;
 </desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690884423/mediacorp/mel/image/2023-08/938_tile_ml_singapore_today_660x316.png" />
 	</programme>
-	<programme channel="CNA938" start="20250227200000 +0800" stop="20250227220000 +0800">
-		<title>Night Life with Joel Chua</title>
-		<desc>At 8pm, be inspired by the person behind the personality on “A Letter to Myself”, as newsmakers, thought leaders, and everyday people reveal the most valuable lessons they’ve learned through life. And at the 9pm recap, listen to in-depth insights on the top developments at home and around the region.</desc>
+	<programme channel="CNA938" start="20250227190000 +0800" stop="20250227200000 +0800">
+		<title>Health and Wealth Lance Alexander and Daniel Martin</title>
+		<desc>Learn about the latest health trends with Daniel Martin on Health Matters, where he brings together experts to help you make sense of the latest health news. Then join Lance Alexander on Wealth Wise as he discusses money matters, analyses market trends and speaks to business owners to help build up your wealth.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690884423/mediacorp/mel/image/2023-08/938_tile_ml_singapore_today_660x316.png" />
+	</programme>
+	<programme channel="CNA938" start="20250227200000 +0800" stop="20250227210000 +0800">
+		<title>A Letter To Myself with Joel Chua</title>
+		<desc>Be inspired by the person behind the personality on "A Letter to Myself", as newsmakers, thought leaders, and everyday people reveal the most valuable lessons they've learned through life.</desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520404/mediacorp/mel/image/2024-05/ml_night_life_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250227210000 +0800" stop="20250227220000 +0800">
+		<title>CNA938 Rewind</title>
+		<desc>The best interviews from CNA938 on current affairs, business, money, health, wellness, and lifestyle, curated daily.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690883700/mediacorp/mel/image/2023-08/cna_tile.jpg" />
 	</programme>
 	<programme channel="CNA938" start="20250227220000 +0800" stop="20250227235900 +0800">
 		<title> CNA News &amp; Current Affairs Overnight</title>
@@ -1273,32 +1433,72 @@ Tiktok - @germaineleonora/@averyaloysius/@987fm&lt;/p&gt;
 </desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1639664766/mel-migration/cna-news---current-affairs-overnight-sat-sun-picture.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20250228070000 +0800" stop="20250228100000 +0800">
-		<title>Asia First with Andrea Heng and Hairianto Diman</title>
-		<desc>&lt;p&gt;Get your day off to a stellar start by catching up on what’s been happening across the world while you and much of Asia were asleep. From 7am to 10am, Monday to Friday, Asia First gets you clued in on everything you need to know to work and function well for the day ahead. Be a part of the conversation, on issues that affect your life and dealings both in Singapore and abroad.&lt;/p&gt;
+	<programme channel="CNA938" start="20250228070000 +0800" stop="20250228080000 +0800">
+		<title>Open for Business with Andrea Heng and Hairianto Diman</title>
+		<desc>Kick-start your day with sharp insights, market updates, and the biggest business stories — all in one power-packed hour. Whether you’re making deals or making moves, Open For Business brings you news you can bank on and gets you ahead before the day even begins.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520185/mediacorp/mel/image/2024-05/ml_asia_first_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250228080000 +0800" stop="20250228100000 +0800">
+		<title>The Morning Show with Andrea Heng and Hairianto Diman</title>
+		<desc>&lt;p&gt;Stay in the know while on the move with The Morning Report, your essential briefing on the day’s biggest headlines. We cut through the noise with deep-dive discussions, expert insights, and fresh perspectives on stories that shape your world — plus lively conversations on sports, entertainment, and everything in between&lt;/p&gt;
 </desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520185/mediacorp/mel/image/2024-05/ml_asia_first_660x316.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20250228100000 +0800" stop="20250228140000 +0800">
-		<title>Work It with Chew Wui Lynn and Cheryl Goh</title>
-		<desc>Every weekday from 10am to 2pm, make it your business to hear how the right moves can get your money, your career and your company ahead of the competition. Refuel and power up over lunch with our top tips on where to find the best food in Singapore. Invest your time with us and see it add dollars and sense to your portfolio.</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1718253682/mediacorp/mel/image/2024-06/ml_work_it_660x316.jpg" />
+	<programme channel="CNA938" start="20250228100000 +0800" stop="20250228110000 +0800">
+		<title>Mind Your Money with Cheryl Goh</title>
+		<desc>Make it your business to learn how the right moves can pay off in your work, career and personal finance journeys. Whether it is tips on acing job interviews, positioning yourself for a promotion, or smarter investing through passive income, Mind Your Money will speak to experts to help you get ahead in your professional life.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740333508/mediacorp/mel/image/2025-02/ml_cheryl_660x316.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20250228140000 +0800" stop="20250228170000 +0800">
-		<title>Life &amp; Style with Melanie Oliveiro</title>
-		<desc>Revitalise your afternoons with good company and riveting stories on ‘Life &amp;amp; Style. Chillax with award-winning broadcast journalist and radio host Melanie Oliveiro as she takes you on a ‘discovery journey’ with her guests. Together they’ll give you the best in travel, self-improvement, the arts, music &amp;amp; books, and all things Singaporeana!</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690948830/mediacorp/mel/image/2023-08/melanie_tile.jpg" />
+	<programme channel="CNA938" start="20250228110000 +0800" stop="20250228120000 +0800">
+		<title>Eat Drink Singapore with Cheryl Goh</title>
+		<desc>Refuel and power up over lunch as we dish out the best food and drinks spots in Singapore. From humble home-bakers to Michellin-starred chefs, hear from the hands that make our food and keep our bellies happy.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740333508/mediacorp/mel/image/2025-02/ml_cheryl_660x316.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20250228170000 +0800" stop="20250228200000 +0800">
+	<programme channel="CNA938" start="20250228120000 +0800" stop="20250228130000 +0800">
+		<title>The Wellness Hour with Cheryl Goh</title>
+		<desc>Get your mind off work during your lunch break as we take you on a journey to better your mental and physical wellness. We'll look at the many ways you can take a break from the stresses of life and explore the latest trends in wellness - from pawrenting to exercise, retail therapy to what's hot among the young and young at heart.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740333508/mediacorp/mel/image/2025-02/ml_cheryl_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250228130000 +0800" stop="20250228140000 +0800">
+		<title>CNA938 Rewind</title>
+		<desc>The best interviews from CNA938 on current affairs, business, money, health, wellness, and lifestyle, curated daily.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1704187122/mediacorp/mel/image/2024-01/cna_tile_singapore-tonight-mon-fri-picture.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250228140000 +0800" stop="20250228150000 +0800">
+		<title>Made in SG with Melanie Oliveiro</title>
+		<desc>Did you know that the thumb drive was invented in Singapore? Or that fish-head curry was created in a Singapore kitchen way back in 1949? Tune in to ‘Made in SG’ with Melanie Oliveiro and find out what other inventions, services, F&amp;amp;B delights and indeed innovators were born in The Lion City and how they became success stories. No cap, all fact!</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250228150000 +0800" stop="20250228160000 +0800">
+		<title>Culture Club Melanie Oliveiro</title>
+		<desc>‘Culture Club’ shines the spotlight on the arts, theatre, music and books as Melanie Oliveiro speaks with creatives who have a passion – and penchant - for dreaming up soul-stirring stuff. Whether it’s a rapper who’s just dropped his EP, a director detailing his/her latest movie, a playwright whose latest work piece creates a stir, or an author eager to talk about their latest novel: Culture Club is one to join - on air and online.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250228160000 +0800" stop="20250228170000 +0800">
+		<title>Destination Anywhere Melanie Oliveiro</title>
+		<desc>Let Melanie Oliveiro take you on a continent-crossing trip around the world and/or get whisked away to exotic lands thanks to Destination Anywhere. Find out where in Singapore you can go to check out the latest historical trails, culturally-rich venues , events and even VR getaways.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250228170000 +0800" stop="20250228190000 +0800">
 		<title>Singapore Today with Lance Alexander and Daniel Martin</title>
 		<desc>&lt;p&gt;At the end of a work day, Lance and Daniel help you take stock of the day’s news. Get insights from those in the know and hear what newsmakers have to say.&lt;/p&gt;
 </desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690884423/mediacorp/mel/image/2023-08/938_tile_ml_singapore_today_660x316.png" />
 	</programme>
-	<programme channel="CNA938" start="20250228200000 +0800" stop="20250228220000 +0800">
-		<title>Night Life with Joel Chua</title>
-		<desc>At 8pm, be inspired by the person behind the personality on “A Letter to Myself”, as newsmakers, thought leaders, and everyday people reveal the most valuable lessons they’ve learned through life. And at the 9pm recap, listen to in-depth insights on the top developments at home and around the region.</desc>
+	<programme channel="CNA938" start="20250228190000 +0800" stop="20250228200000 +0800">
+		<title>Health and Wealth Lance Alexander and Daniel Martin</title>
+		<desc>Learn about the latest health trends with Daniel Martin on Health Matters, where he brings together experts to help you make sense of the latest health news. Then join Lance Alexander on Wealth Wise as he discusses money matters, analyses market trends and speaks to business owners to help build up your wealth.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690884423/mediacorp/mel/image/2023-08/938_tile_ml_singapore_today_660x316.png" />
+	</programme>
+	<programme channel="CNA938" start="20250228200000 +0800" stop="20250228210000 +0800">
+		<title>A Letter To Myself with Joel Chua</title>
+		<desc>Be inspired by the person behind the personality on "A Letter to Myself", as newsmakers, thought leaders, and everyday people reveal the most valuable lessons they've learned through life.</desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520404/mediacorp/mel/image/2024-05/ml_night_life_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250228210000 +0800" stop="20250228220000 +0800">
+		<title>CNA938 Rewind</title>
+		<desc>The best interviews from CNA938 on current affairs, business, money, health, wellness, and lifestyle, curated daily.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690883700/mediacorp/mel/image/2023-08/cna_tile.jpg" />
 	</programme>
 	<programme channel="CNA938" start="20250228220000 +0800" stop="20250228235900 +0800">
 		<title> CNA News &amp; Current Affairs Overnight</title>
@@ -2925,7 +3125,7 @@ Kevin participated in Mediacorp's YES 933 Hey DJ! Competition, where he emerged 
 &lt;p&gt;#RIAKruz&amp;nbsp;#RIA897 #1SGRadioNetwork&lt;br /&gt;
 &amp;nbsp;&lt;/p&gt;
 </desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1727400445/mediacorp/mel/image/2024-09/tile_897_660x316px_fadli_kamsani.jpg" />
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740332003/mediacorp/mel/image/2025-02/tile_897_660x316px_fadli_farhana.jpg" />
 	</programme>
 	<programme channel="Ria897" start="20250224200000 +0800" stop="20250224230000 +0800">
 		<title>Malam Masih Muda (3M)</title>
@@ -3000,7 +3200,7 @@ Kevin participated in Mediacorp's YES 933 Hey DJ! Competition, where he emerged 
 &lt;p&gt;#RIAKruz&amp;nbsp;#RIA897 #1SGRadioNetwork&lt;br /&gt;
 &amp;nbsp;&lt;/p&gt;
 </desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1727400445/mediacorp/mel/image/2024-09/tile_897_660x316px_fadli_kamsani.jpg" />
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740332003/mediacorp/mel/image/2025-02/tile_897_660x316px_fadli_farhana.jpg" />
 	</programme>
 	<programme channel="Ria897" start="20250225200000 +0800" stop="20250225230000 +0800">
 		<title>Malam Masih Muda (3M)</title>
@@ -3086,7 +3286,7 @@ Kevin participated in Mediacorp's YES 933 Hey DJ! Competition, where he emerged 
 &lt;p&gt;#RIAKruz&amp;nbsp;#RIA897 #1SGRadioNetwork&lt;br /&gt;
 &amp;nbsp;&lt;/p&gt;
 </desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1727400445/mediacorp/mel/image/2024-09/tile_897_660x316px_fadli_kamsani.jpg" />
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740332003/mediacorp/mel/image/2025-02/tile_897_660x316px_fadli_farhana.jpg" />
 	</programme>
 	<programme channel="Ria897" start="20250226200000 +0800" stop="20250226230000 +0800">
 		<title>Malam Masih Muda (3M)</title>
@@ -3161,7 +3361,7 @@ Kevin participated in Mediacorp's YES 933 Hey DJ! Competition, where he emerged 
 &lt;p&gt;#RIAKruz&amp;nbsp;#RIA897 #1SGRadioNetwork&lt;br /&gt;
 &amp;nbsp;&lt;/p&gt;
 </desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1727400445/mediacorp/mel/image/2024-09/tile_897_660x316px_fadli_kamsani.jpg" />
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740332003/mediacorp/mel/image/2025-02/tile_897_660x316px_fadli_farhana.jpg" />
 	</programme>
 	<programme channel="Ria897" start="20250227200000 +0800" stop="20250227230000 +0800">
 		<title>Malam Masih Muda (3M)</title>
@@ -3247,7 +3447,7 @@ Kevin participated in Mediacorp's YES 933 Hey DJ! Competition, where he emerged 
 &lt;p&gt;#RIAKruz&amp;nbsp;#RIA897 #1SGRadioNetwork&lt;br /&gt;
 &amp;nbsp;&lt;/p&gt;
 </desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1727400445/mediacorp/mel/image/2024-09/tile_897_660x316px_fadli_kamsani.jpg" />
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740332003/mediacorp/mel/image/2025-02/tile_897_660x316px_fadli_farhana.jpg" />
 	</programme>
 	<programme channel="Ria897" start="20250228200000 +0800" stop="20250228230000 +0800">
 		<title>Malam Masih Muda (3M)</title>
