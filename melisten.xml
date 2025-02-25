@@ -1374,9 +1374,10 @@ Instagram: @germaineleonora / @averyaloysius / @987fm&lt;/p&gt;
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1659681920/mediacorp/mel/image/2022-08/mel_your_singapore_660x316.png" />
 	</programme>
 	<programme channel="CNA938" start="20250301120000 +0800" stop="20250301130000 +0800">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://www16.mediacorp.sg/melisten/radiostation-logos/cna-938.png" />
+		<title>A Letter To Myself with Joel Chua</title>
+		<desc>&lt;p&gt;Be inspired by the person behind the personality on "A Letter to Myself", as newsmakers, thought leaders, and everyday people reveal the most valuable lessons they've learned through life.&lt;/p&gt;
+</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520404/mediacorp/mel/image/2024-05/ml_night_life_660x316.jpg" />
 	</programme>
 	<programme channel="CNA938" start="20250301130000 +0800" stop="20250301140000 +0800">
 		<title>(Best of) Your Singapore Weekend</title>
@@ -1455,9 +1456,9 @@ Instagram: @germaineleonora / @averyaloysius / @987fm&lt;/p&gt;
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1659681920/mediacorp/mel/image/2022-08/mel_your_singapore_660x316.png" />
 	</programme>
 	<programme channel="CNA938" start="20250301230000 +0800" stop="20250301233000 +0800">
-		<title>Destination Anywhere with Melanie Oliveiro</title>
-		<desc />
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1659682383/mediacorp/mel/image/2022-08/mel_page_turners_660x316.png" />
+		<title>Made in SG with Melanie Oliveiro</title>
+		<desc>Did you know that the thumb drive was invented in Singapore? Or that fish-head curry was created in a Singapore kitchen way back in 1949? Tune in to ‘Made in SG’ with Melanie Oliveiro and find out what other inventions, services, F&amp;amp;B delights and indeed innovators were born in The Lion City and how they became success stories. No cap, all fact!</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
 	</programme>
 	<programme channel="CNA938" start="20250301233000 +0800" stop="20250302000000 +0800">
 		<title>Tech Talk with Daniel Martin </title>
@@ -1591,15 +1592,10 @@ Instagram: @germaineleonora / @averyaloysius / @987fm&lt;/p&gt;
 		<desc>This programme covers social and community issues that concern all of us. It also features people &amp;amp; causes who are making a difference in the lives of others.</desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1659681920/mediacorp/mel/image/2022-08/mel_your_singapore_660x316.png" />
 	</programme>
-	<programme channel="CNA938" start="20250302230000 +0800" stop="20250302233000 +0800">
-		<title>Made in SG with Melanie Oliveiro</title>
-		<desc>Did you know that the thumb drive was invented in Singapore? Or that fish-head curry was created in a Singapore kitchen way back in 1949? Tune in to ‘Made in SG’ with Melanie Oliveiro and find out what other inventions, services, F&amp;amp;B delights and indeed innovators were born in The Lion City and how they became success stories. No cap, all fact!</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
-	</programme>
-	<programme channel="CNA938" start="20250302233000 +0800" stop="20250303000000 +0800">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://www16.mediacorp.sg/melisten/radiostation-logos/cna-938.png" />
+	<programme channel="CNA938" start="20250302230000 +0800" stop="20250303000000 +0800">
+		<title>A Letter To Myself with Joel Chua</title>
+		<desc>Be inspired by the person behind the personality on "A Letter to Myself", as newsmakers, thought leaders, and everyday people reveal the most valuable lessons they've learned through life.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520404/mediacorp/mel/image/2024-05/ml_night_life_660x316.jpg" />
 	</programme>
 	<programme channel="CNA938" start="20250303000000 +0800" stop="20250303070000 +0800">
 		<title>CNA News &amp; Current Affairs Overnight</title>
