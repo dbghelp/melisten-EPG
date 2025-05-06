@@ -2668,12 +2668,7 @@ Kevin participated in Mediacorp's YES 933 Hey DJ! Competition, where he emerged 
 		<desc>勾起回忆，让你回味。</desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675215039/mediacorp/mel/image/2023-02/972-Tile-660x316px_1.jpg" />
 	</programme>
-	<programme channel="Love972" start="20250510210000 +0800" stop="20250510230000 +0800">
-		<title>最爱祖流音乐</title>
-		<desc>周六夜现场，历久弥新谣！3月8日起，蔡荣祖陪你回味新谣歌曲。</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1691457329/mediacorp/mel/image/2023-08/tile-972-rongzu-660x316px.jpg" />
-	</programme>
-	<programme channel="Love972" start="20250510230000 +0800" stop="20250510235900 +0800">
+	<programme channel="Love972" start="20250510210000 +0800" stop="20250510235900 +0800">
 		<title>K歌最爱听</title>
 		<desc>&lt;p&gt;首首最爱K歌陪着你。&lt;/p&gt;
 </desc>
