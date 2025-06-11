@@ -1547,10 +1547,10 @@ Instagram: @germaineleonora / @averyaloysius / @987fm&lt;/p&gt;
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520404/mediacorp/mel/image/2024-05/ml_night_life_660x316.jpg" />
 	</programme>
 	<programme channel="CNA938" start="20250615180000 +0800" stop="20250615190000 +0800">
-		<title>The best of Your Singapore Weekend</title>
-		<desc>&lt;p&gt;The best of Your Singapore Weekend in 60 minutes&lt;/p&gt;
+		<title>Our Town with Susan Ng</title>
+		<desc>&lt;p&gt;This programme covers social and community issues that concern all of us. It also features people &amp;amp; causes who are making a difference in the lives of others.&lt;/p&gt;
 </desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1641889705/mel-migration/your-singapore-weekend--best-of---sun1800-picture.jpg" />
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1659681920/mediacorp/mel/image/2022-08/mel_your_singapore_660x316.png" />
 	</programme>
 	<programme channel="CNA938" start="20250615190000 +0800" stop="20250615193000 +0800">
 		<title>Made In Singapore with Melanie Oliveiro</title>
@@ -1585,15 +1585,16 @@ Instagram: @germaineleonora / @averyaloysius / @987fm&lt;/p&gt;
 </desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1659682383/mediacorp/mel/image/2022-08/mel_page_turners_660x316.png" />
 	</programme>
-	<programme channel="CNA938" start="20250615220000 +0800" stop="20250615230000 +0800">
-		<title>Our Town with Susan Ng</title>
-		<desc>This programme covers social and community issues that concern all of us. It also features people &amp;amp; causes who are making a difference in the lives of others.</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1659681920/mediacorp/mel/image/2022-08/mel_your_singapore_660x316.png" />
+	<programme channel="CNA938" start="20250615220000 +0800" stop="20250615235900 +0800">
+		<title> CNA News &amp; Current Affairs Overnight</title>
+		<desc>&lt;p&gt;The latest from the CNA newsroom plus a showcase of the network’s award-winning current affairs programmes.&lt;/p&gt;
+</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1639664522/mel-migration/singapore-tonight-mon-fri-picture.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20250615230000 +0800" stop="20250616000000 +0800">
-		<title>A Letter To Myself with Joel Chua</title>
-		<desc>Be inspired by the person behind the personality on "A Letter to Myself", as newsmakers, thought leaders, and everyday people reveal the most valuable lessons they've learned through life.</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520404/mediacorp/mel/image/2024-05/ml_night_life_660x316.jpg" />
+	<programme channel="CNA938" start="20250615235900 +0800" stop="20250616000000 +0800">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://www16.mediacorp.sg/melisten/radiostation-logos/cna-938.png" />
 	</programme>
 	<programme channel="CNA938" start="20250616000000 +0800" stop="20250616070000 +0800">
 		<title>CNA News &amp; Current Affairs Overnight</title>
