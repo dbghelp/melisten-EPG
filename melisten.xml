@@ -1329,10 +1329,15 @@ Instagram: @germaineleonora / @averyaloysius / @987fm&lt;/p&gt;
 		<desc>Be inspired by the person behind the personality on "A Letter to Myself", as newsmakers, thought leaders, and everyday people reveal the most valuable lessons they've learned through life.</desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520404/mediacorp/mel/image/2024-05/ml_night_life_660x316.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20250705180000 +0800" stop="20250705190000 +0800">
-		<title>Best of Your Singapore Weekend</title>
-		<desc>The best of Your Singapore Weekend in 60 minutes.</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690940486/mediacorp/mel/image/2023-08/susan_tile.png.jpg" />
+	<programme channel="CNA938" start="20250705180000 +0800" stop="20250705183000 +0800">
+		<title>Made in SG with Melanie Oliveiro</title>
+		<desc>Did you know that the thumb drive was invented in Singapore? Or that fish-head curry was created in a Singapore kitchen way back in 1949? Tune in to ‘Made in SG’ with Melanie Oliveiro and find out what other inventions, services, F&amp;amp;B delights and indeed innovators were born in The Lion City and how they became success stories. No cap, all fact!</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20250705183000 +0800" stop="20250705190000 +0800">
+		<title>Tech Talk with Daniel Martin</title>
+		<desc>Tech Talk is all about the topics driving your digital lifestyle. Daniel Martin speaks to the change-makers behind constantly innovative new tech that will transform the way you work and play. From reviews of the latest gadgets and mobile tech hitting the consumer market, to the latest in cyber-security.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1711095702/mediacorp/mel/image/2024-03/mL_Daniel_Martin_660X316_0.png" />
 	</programme>
 	<programme channel="CNA938" start="20250705190000 +0800" stop="20250705193000 +0800">
 		<title>Mind Your Money with Cheryl Goh</title>
@@ -1362,22 +1367,16 @@ Instagram: @germaineleonora / @averyaloysius / @987fm&lt;/p&gt;
 </desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20250705220000 +0800" stop="20250705230000 +0800">
-		<title>Family Ties with Susan Ng</title>
-		<desc>&lt;p&gt;Conversations around family matters and issues important to family relationships. Susan speaks with experts and parents on parenting tips and more&lt;/p&gt;
+	<programme channel="CNA938" start="20250705220000 +0800" stop="20250705235900 +0800">
+		<title> CNA News &amp; Current Affairs Overnight</title>
+		<desc>&lt;p&gt;The latest from the CNA newsroom plus a showcase of the network’s award-winning current affairs programmes.&lt;/p&gt;
 </desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1659681920/mediacorp/mel/image/2022-08/mel_your_singapore_660x316.png" />
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1639664522/mel-migration/singapore-tonight-mon-fri-picture.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20250705230000 +0800" stop="20250705233000 +0800">
-		<title>Made in SG with Melanie Oliveiro</title>
-		<desc>Did you know that the thumb drive was invented in Singapore? Or that fish-head curry was created in a Singapore kitchen way back in 1949? Tune in to ‘Made in SG’ with Melanie Oliveiro and find out what other inventions, services, F&amp;amp;B delights and indeed innovators were born in The Lion City and how they became success stories. No cap, all fact!</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
-	</programme>
-	<programme channel="CNA938" start="20250705233000 +0800" stop="20250706000000 +0800">
-		<title>Tech Talk with Daniel Martin </title>
-		<desc>&lt;p&gt;Tech Talk is all about the topics driving your digital lifestyle. Daniel Martin speaks to the change-makers behind constantly innovative new tech that will transform the way you work and play. From reviews of the latest gadgets and mobile tech hitting the consumer market, to the latest in cyber-security.&lt;/p&gt;
-</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1711095702/mediacorp/mel/image/2024-03/mL_Daniel_Martin_660X316_0.png" />
+	<programme channel="CNA938" start="20250705235900 +0800" stop="20250706000000 +0800">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://www16.mediacorp.sg/melisten/radiostation-logos/cna-938.png" />
 	</programme>
 	<programme channel="CNA938" start="20250706000000 +0800" stop="20250706070000 +0800">
 		<title>CNA News &amp; Current Affairs Overnight</title>
@@ -1431,7 +1430,7 @@ Instagram: @germaineleonora / @averyaloysius / @987fm&lt;/p&gt;
 		<title>Tech Talk with Daniel Martin</title>
 		<desc>&lt;p&gt;Tech Talk is all about the topics driving your digital lifestyle. Daniel Martin speaks to the change-makers behind constantly innovative new tech that will transform the way you work and play. From reviews of the latest gadgets and mobile tech hitting the consumer market, to the latest in cyber-security.&lt;/p&gt;
 </desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1685006162/mediacorp/mel/image/2023-05/daniel_melisten_660x316.png" />
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1711095702/mediacorp/mel/image/2024-03/mL_Daniel_Martin_660X316_0.png" />
 	</programme>
 	<programme channel="CNA938" start="20250706150000 +0800" stop="20250706153000 +0800">
 		<title>Health Matters with Daniel Martin</title>
