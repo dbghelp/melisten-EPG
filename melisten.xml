@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <tv generator-info-name="https://github.com/dbghelp">
-	<channel id="indiego">
-		<display-name>indiego</display-name>
-		<icon src="https://www16.mediacorp.sg/melisten/radiostation-logos/indiego.png" />
-	</channel>
 	<channel id="Class95">
 		<display-name>CLASS 95</display-name>
 		<icon src="https://www16.mediacorp.sg/melisten/radiostation-logos/class-95.png" />
@@ -48,261 +44,10 @@
 		<display-name>OLI 968</display-name>
 		<icon src="https://www16.mediacorp.sg/melisten/radiostation-logos/oli-968.png" />
 	</channel>
-	<programme channel="indiego" start="20250909000000 +0800" stop="20250909020000 +0800">
-		<title>Under The Radar</title>
-		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211811/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_3.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250909020000 +0800" stop="20250909060000 +0800">
-		<title>Satellite Radio</title>
-		<desc>&lt;p&gt;All that ambient, jazz and instrumental!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211507/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_0.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250909060000 +0800" stop="20250909100000 +0800">
-		<title>Golden Hour</title>
-		<desc>&lt;p&gt;Soft Rock, Old School Sounding Soul &amp;amp; Analog Instrumentals to start your day.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211924/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_5.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250909100000 +0800" stop="20250909140000 +0800">
-		<title>Fireside</title>
-		<desc>&lt;p&gt;Kick back with music from&amp;nbsp;singer-songwriters and folk-pop.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211634/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_1.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250909140000 +0800" stop="20250909180000 +0800">
-		<title>.wavlengths</title>
-		<desc>&lt;p&gt;Indie/alt pop-rock and everything in between!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212157/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_9.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250909180000 +0800" stop="20250909220000 +0800">
-		<title>Flipside</title>
-		<desc>&lt;p&gt;Welcome to hip-hop/modern r&amp;amp;b on the flipside!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212564/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_13.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250909220000 +0800" stop="20250910000000 +0800">
-		<title>Under The Radar</title>
-		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers.&amp;nbsp;&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211870/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_4.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250910000000 +0800" stop="20250910020000 +0800">
-		<title>Under The Radar</title>
-		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211811/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_3.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250910020000 +0800" stop="20250910060000 +0800">
-		<title>Satellite Radio</title>
-		<desc>&lt;p&gt;All that ambient, jazz and instrumental!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211507/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_0.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250910060000 +0800" stop="20250910100000 +0800">
-		<title>Golden Hour</title>
-		<desc>&lt;p&gt;Soft Rock, Old School Sounding Soul &amp;amp; Analog Instrumentals to start your day.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211924/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_5.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250910100000 +0800" stop="20250910140000 +0800">
-		<title>Fireside</title>
-		<desc>&lt;p&gt;Kick back with music from&amp;nbsp;singer-songwriters and folk-pop.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211634/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_1.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250910140000 +0800" stop="20250910180000 +0800">
-		<title>.wavlengths</title>
-		<desc>&lt;p&gt;Indie/alt pop-rock and everything in between!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212157/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_9.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250910180000 +0800" stop="20250910220000 +0800">
-		<title>Flipside</title>
-		<desc>&lt;p&gt;Welcome to hip-hop/modern r&amp;amp;b on the flipside!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212564/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_13.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250910220000 +0800" stop="20250911000000 +0800">
-		<title>Under The Radar</title>
-		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers.&amp;nbsp;&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211870/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_4.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250911000000 +0800" stop="20250911020000 +0800">
-		<title>Under The Radar</title>
-		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211811/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_3.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250911020000 +0800" stop="20250911060000 +0800">
-		<title>Satellite Radio</title>
-		<desc>&lt;p&gt;All that ambient, jazz and instrumental!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211507/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_0.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250911060000 +0800" stop="20250911100000 +0800">
-		<title>Golden Hour</title>
-		<desc>&lt;p&gt;Soft Rock, Old School Sounding Soul &amp;amp; Analog Instrumentals to start your day.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211924/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_5.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250911100000 +0800" stop="20250911140000 +0800">
-		<title>Fireside</title>
-		<desc>&lt;p&gt;Kick back with music from&amp;nbsp;singer-songwriters and folk-pop.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211634/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_1.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250911140000 +0800" stop="20250911180000 +0800">
-		<title>.wavlengths</title>
-		<desc>&lt;p&gt;Indie/alt pop-rock and everything in between!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212157/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_9.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250911180000 +0800" stop="20250911220000 +0800">
-		<title>Flipside</title>
-		<desc>&lt;p&gt;Welcome to hip-hop/modern r&amp;amp;b on the flipside!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212564/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_13.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250911220000 +0800" stop="20250912000000 +0800">
-		<title>Under The Radar</title>
-		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers.&amp;nbsp;&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211870/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_4.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250912000000 +0800" stop="20250912020000 +0800">
-		<title>Under The Radar</title>
-		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211811/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_3.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250912020000 +0800" stop="20250912060000 +0800">
-		<title>Satellite Radio</title>
-		<desc>&lt;p&gt;All that ambient, jazz and instrumental!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211507/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_0.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250912060000 +0800" stop="20250912100000 +0800">
-		<title>Golden Hour</title>
-		<desc>&lt;p&gt;Soft Rock, Old School Sounding Soul &amp;amp; Analog Instrumentals to start your day.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211924/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_5.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250912100000 +0800" stop="20250912140000 +0800">
-		<title>Fireside</title>
-		<desc>&lt;p&gt;Kick back with music from&amp;nbsp;singer-songwriters and folk-pop.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211634/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_1.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250912140000 +0800" stop="20250912180000 +0800">
-		<title>.wavlengths</title>
-		<desc>&lt;p&gt;Indie/alt pop-rock and everything in between!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212157/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_9.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250912180000 +0800" stop="20250912220000 +0800">
-		<title>Flipside</title>
-		<desc>&lt;p&gt;Welcome to hip-hop/modern r&amp;amp;b on the flipside!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212564/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_13.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250912220000 +0800" stop="20250913000000 +0800">
-		<title>Under The Radar</title>
-		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers.&amp;nbsp;&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211870/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_4.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250913000000 +0800" stop="20250913020000 +0800">
-		<title>Under The Radar</title>
-		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211811/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_3.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250913020000 +0800" stop="20250913060000 +0800">
-		<title>Satellite Radio</title>
-		<desc>&lt;p&gt;All that ambient, jazz and instrumental!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211426/mediacorp/mel/image/2023-02/indiego-Tile-660x316px.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250913060000 +0800" stop="20250913100000 +0800">
-		<title>Golden Hour</title>
-		<desc>&lt;p&gt;Soft Rock, Old School Sounding Soul &amp;amp; Analog Instrumentals to start your day.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211978/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_6.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250913100000 +0800" stop="20250913130000 +0800">
-		<title>Fireside</title>
-		<desc>&lt;p&gt;Kick back with music from&amp;nbsp;singer-songwriters and folk-pop.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211756/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_2.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250913130000 +0800" stop="20250913160000 +0800">
-		<title>.wavlengths</title>
-		<desc>&lt;p&gt;Indie/alt pop-rock and everything in between!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212044/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_7.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250913160000 +0800" stop="20250913190000 +0800">
-		<title>Adrenaline</title>
-		<desc>&lt;p&gt;Rock out with us! Hardcore and Heavy Rock music.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212257/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_11.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250913190000 +0800" stop="20250913220000 +0800">
-		<title>Flipside</title>
-		<desc>&lt;p&gt;Welcome to hip-hop/modern r&amp;amp;b on the flipside!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212505/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_12.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250913220000 +0800" stop="20250914000000 +0800">
-		<title>Under The Radar</title>
-		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers.&amp;nbsp;&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211870/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_4.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250914000000 +0800" stop="20250914020000 +0800">
-		<title>Under The Radar</title>
-		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211811/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_3.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250914020000 +0800" stop="20250914060000 +0800">
-		<title>Satellite Radio</title>
-		<desc>&lt;p&gt;All that ambient, jazz and instrumental!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211426/mediacorp/mel/image/2023-02/indiego-Tile-660x316px.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250914060000 +0800" stop="20250914100000 +0800">
-		<title>Golden Hour</title>
-		<desc>&lt;p&gt;Soft Rock, Old School Sounding Soul &amp;amp; Analog Instrumentals to start your day.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211978/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_6.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250914100000 +0800" stop="20250914130000 +0800">
-		<title>Fireside</title>
-		<desc>&lt;p&gt;Kick back with music from&amp;nbsp;singer-songwriters and folk-pop.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211756/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_2.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250914130000 +0800" stop="20250914160000 +0800">
-		<title>.wavlengths</title>
-		<desc>&lt;p&gt;Indie/alt pop-rock and everything in between!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212044/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_7.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250914160000 +0800" stop="20250914190000 +0800">
-		<title>Adrenaline</title>
-		<desc>&lt;p&gt;Rock out with us! Hardcore and Heavy Rock music.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212257/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_11.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250914190000 +0800" stop="20250914220000 +0800">
-		<title>Flipside</title>
-		<desc>&lt;p&gt;Welcome to hip-hop/modern r&amp;amp;b on the flipside!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212505/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_12.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250914220000 +0800" stop="20250915000000 +0800">
-		<title>Under The Radar</title>
-		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers.&amp;nbsp;&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211870/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_4.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250915000000 +0800" stop="20250915020000 +0800">
-		<title>Under The Radar</title>
-		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211811/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_3.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250915020000 +0800" stop="20250915060000 +0800">
-		<title>Satellite Radio</title>
-		<desc>&lt;p&gt;All that ambient, jazz and instrumental!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211507/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_0.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250915060000 +0800" stop="20250915100000 +0800">
-		<title>Golden Hour</title>
-		<desc>&lt;p&gt;Soft Rock, Old School Sounding Soul &amp;amp; Analog Instrumentals to start your day.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211924/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_5.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250915100000 +0800" stop="20250915140000 +0800">
-		<title>Fireside</title>
-		<desc>&lt;p&gt;Kick back with music from&amp;nbsp;singer-songwriters and folk-pop.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211634/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_1.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250915140000 +0800" stop="20250915180000 +0800">
-		<title>.wavlengths</title>
-		<desc>&lt;p&gt;Indie/alt pop-rock and everything in between!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212157/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_9.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250915180000 +0800" stop="20250915220000 +0800">
-		<title>Flipside</title>
-		<desc>&lt;p&gt;Welcome to hip-hop/modern r&amp;amp;b on the flipside!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212564/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_13.jpg" />
-	</programme>
-	<programme channel="indiego" start="20250915220000 +0800" stop="20250916000000 +0800">
-		<title>Under The Radar</title>
-		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers.&amp;nbsp;&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211870/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_4.jpg" />
-	</programme>
+	<channel id="indiego">
+		<display-name>indiego</display-name>
+		<icon src="https://www16.mediacorp.sg/melisten/radiostation-logos/indiego.png" />
+	</channel>
 	<programme channel="Class95" start="20250909000000 +0800" stop="20250909050000 +0800">
 		<title>The Best Mix of Music</title>
 		<desc />
@@ -3867,5 +3612,260 @@ Intersperse with information on Korean artistes and happenings.&lt;br /&gt;
 		<title>Iravinil Aattam</title>
 		<desc>&lt;p&gt;Tune in to Iravinil Aattam – the perfect way to unwind after a hard day's work! Let our selection of old tunes evoke nostalgia and melody hits keep you company!&lt;/p&gt;</desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740623240/mediacorp/mel/image/2025-02/tile_968_04_660x316px.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250909000000 +0800" stop="20250909020000 +0800">
+		<title>Under The Radar</title>
+		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211811/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_3.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250909020000 +0800" stop="20250909060000 +0800">
+		<title>Satellite Radio</title>
+		<desc>&lt;p&gt;All that ambient, jazz and instrumental!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211507/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_0.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250909060000 +0800" stop="20250909100000 +0800">
+		<title>Golden Hour</title>
+		<desc>&lt;p&gt;Soft Rock, Old School Sounding Soul &amp;amp; Analog Instrumentals to start your day.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211924/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_5.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250909100000 +0800" stop="20250909140000 +0800">
+		<title>Fireside</title>
+		<desc>&lt;p&gt;Kick back with music from&amp;nbsp;singer-songwriters and folk-pop.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211634/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_1.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250909140000 +0800" stop="20250909180000 +0800">
+		<title>.wavlengths</title>
+		<desc>&lt;p&gt;Indie/alt pop-rock and everything in between!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212157/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_9.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250909180000 +0800" stop="20250909220000 +0800">
+		<title>Flipside</title>
+		<desc>&lt;p&gt;Welcome to hip-hop/modern r&amp;amp;b on the flipside!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212564/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_13.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250909220000 +0800" stop="20250910000000 +0800">
+		<title>Under The Radar</title>
+		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers.&amp;nbsp;&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211870/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_4.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250910000000 +0800" stop="20250910020000 +0800">
+		<title>Under The Radar</title>
+		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211811/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_3.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250910020000 +0800" stop="20250910060000 +0800">
+		<title>Satellite Radio</title>
+		<desc>&lt;p&gt;All that ambient, jazz and instrumental!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211507/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_0.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250910060000 +0800" stop="20250910100000 +0800">
+		<title>Golden Hour</title>
+		<desc>&lt;p&gt;Soft Rock, Old School Sounding Soul &amp;amp; Analog Instrumentals to start your day.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211924/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_5.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250910100000 +0800" stop="20250910140000 +0800">
+		<title>Fireside</title>
+		<desc>&lt;p&gt;Kick back with music from&amp;nbsp;singer-songwriters and folk-pop.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211634/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_1.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250910140000 +0800" stop="20250910180000 +0800">
+		<title>.wavlengths</title>
+		<desc>&lt;p&gt;Indie/alt pop-rock and everything in between!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212157/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_9.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250910180000 +0800" stop="20250910220000 +0800">
+		<title>Flipside</title>
+		<desc>&lt;p&gt;Welcome to hip-hop/modern r&amp;amp;b on the flipside!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212564/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_13.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250910220000 +0800" stop="20250911000000 +0800">
+		<title>Under The Radar</title>
+		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers.&amp;nbsp;&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211870/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_4.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250911000000 +0800" stop="20250911020000 +0800">
+		<title>Under The Radar</title>
+		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211811/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_3.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250911020000 +0800" stop="20250911060000 +0800">
+		<title>Satellite Radio</title>
+		<desc>&lt;p&gt;All that ambient, jazz and instrumental!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211507/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_0.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250911060000 +0800" stop="20250911100000 +0800">
+		<title>Golden Hour</title>
+		<desc>&lt;p&gt;Soft Rock, Old School Sounding Soul &amp;amp; Analog Instrumentals to start your day.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211924/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_5.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250911100000 +0800" stop="20250911140000 +0800">
+		<title>Fireside</title>
+		<desc>&lt;p&gt;Kick back with music from&amp;nbsp;singer-songwriters and folk-pop.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211634/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_1.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250911140000 +0800" stop="20250911180000 +0800">
+		<title>.wavlengths</title>
+		<desc>&lt;p&gt;Indie/alt pop-rock and everything in between!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212157/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_9.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250911180000 +0800" stop="20250911220000 +0800">
+		<title>Flipside</title>
+		<desc>&lt;p&gt;Welcome to hip-hop/modern r&amp;amp;b on the flipside!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212564/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_13.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250911220000 +0800" stop="20250912000000 +0800">
+		<title>Under The Radar</title>
+		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers.&amp;nbsp;&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211870/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_4.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250912000000 +0800" stop="20250912020000 +0800">
+		<title>Under The Radar</title>
+		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211811/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_3.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250912020000 +0800" stop="20250912060000 +0800">
+		<title>Satellite Radio</title>
+		<desc>&lt;p&gt;All that ambient, jazz and instrumental!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211507/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_0.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250912060000 +0800" stop="20250912100000 +0800">
+		<title>Golden Hour</title>
+		<desc>&lt;p&gt;Soft Rock, Old School Sounding Soul &amp;amp; Analog Instrumentals to start your day.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211924/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_5.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250912100000 +0800" stop="20250912140000 +0800">
+		<title>Fireside</title>
+		<desc>&lt;p&gt;Kick back with music from&amp;nbsp;singer-songwriters and folk-pop.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211634/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_1.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250912140000 +0800" stop="20250912180000 +0800">
+		<title>.wavlengths</title>
+		<desc>&lt;p&gt;Indie/alt pop-rock and everything in between!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212157/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_9.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250912180000 +0800" stop="20250912220000 +0800">
+		<title>Flipside</title>
+		<desc>&lt;p&gt;Welcome to hip-hop/modern r&amp;amp;b on the flipside!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212564/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_13.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250912220000 +0800" stop="20250913000000 +0800">
+		<title>Under The Radar</title>
+		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers.&amp;nbsp;&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211870/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_4.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250913000000 +0800" stop="20250913020000 +0800">
+		<title>Under The Radar</title>
+		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211811/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_3.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250913020000 +0800" stop="20250913060000 +0800">
+		<title>Satellite Radio</title>
+		<desc>&lt;p&gt;All that ambient, jazz and instrumental!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211426/mediacorp/mel/image/2023-02/indiego-Tile-660x316px.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250913060000 +0800" stop="20250913100000 +0800">
+		<title>Golden Hour</title>
+		<desc>&lt;p&gt;Soft Rock, Old School Sounding Soul &amp;amp; Analog Instrumentals to start your day.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211978/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_6.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250913100000 +0800" stop="20250913130000 +0800">
+		<title>Fireside</title>
+		<desc>&lt;p&gt;Kick back with music from&amp;nbsp;singer-songwriters and folk-pop.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211756/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_2.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250913130000 +0800" stop="20250913160000 +0800">
+		<title>.wavlengths</title>
+		<desc>&lt;p&gt;Indie/alt pop-rock and everything in between!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212044/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_7.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250913160000 +0800" stop="20250913190000 +0800">
+		<title>Adrenaline</title>
+		<desc>&lt;p&gt;Rock out with us! Hardcore and Heavy Rock music.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212257/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_11.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250913190000 +0800" stop="20250913220000 +0800">
+		<title>Flipside</title>
+		<desc>&lt;p&gt;Welcome to hip-hop/modern r&amp;amp;b on the flipside!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212505/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_12.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250913220000 +0800" stop="20250914000000 +0800">
+		<title>Under The Radar</title>
+		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers.&amp;nbsp;&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211870/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_4.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250914000000 +0800" stop="20250914020000 +0800">
+		<title>Under The Radar</title>
+		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211811/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_3.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250914020000 +0800" stop="20250914060000 +0800">
+		<title>Satellite Radio</title>
+		<desc>&lt;p&gt;All that ambient, jazz and instrumental!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211426/mediacorp/mel/image/2023-02/indiego-Tile-660x316px.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250914060000 +0800" stop="20250914100000 +0800">
+		<title>Golden Hour</title>
+		<desc>&lt;p&gt;Soft Rock, Old School Sounding Soul &amp;amp; Analog Instrumentals to start your day.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211978/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_6.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250914100000 +0800" stop="20250914130000 +0800">
+		<title>Fireside</title>
+		<desc>&lt;p&gt;Kick back with music from&amp;nbsp;singer-songwriters and folk-pop.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211756/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_2.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250914130000 +0800" stop="20250914160000 +0800">
+		<title>.wavlengths</title>
+		<desc>&lt;p&gt;Indie/alt pop-rock and everything in between!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212044/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_7.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250914160000 +0800" stop="20250914190000 +0800">
+		<title>Adrenaline</title>
+		<desc>&lt;p&gt;Rock out with us! Hardcore and Heavy Rock music.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212257/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_11.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250914190000 +0800" stop="20250914220000 +0800">
+		<title>Flipside</title>
+		<desc>&lt;p&gt;Welcome to hip-hop/modern r&amp;amp;b on the flipside!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212505/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_12.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250914220000 +0800" stop="20250915000000 +0800">
+		<title>Under The Radar</title>
+		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers.&amp;nbsp;&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211870/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_4.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250915000000 +0800" stop="20250915020000 +0800">
+		<title>Under The Radar</title>
+		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211811/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_3.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250915020000 +0800" stop="20250915060000 +0800">
+		<title>Satellite Radio</title>
+		<desc>&lt;p&gt;All that ambient, jazz and instrumental!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211507/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_0.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250915060000 +0800" stop="20250915100000 +0800">
+		<title>Golden Hour</title>
+		<desc>&lt;p&gt;Soft Rock, Old School Sounding Soul &amp;amp; Analog Instrumentals to start your day.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211924/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_5.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250915100000 +0800" stop="20250915140000 +0800">
+		<title>Fireside</title>
+		<desc>&lt;p&gt;Kick back with music from&amp;nbsp;singer-songwriters and folk-pop.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211634/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_1.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250915140000 +0800" stop="20250915180000 +0800">
+		<title>.wavlengths</title>
+		<desc>&lt;p&gt;Indie/alt pop-rock and everything in between!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212157/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_9.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250915180000 +0800" stop="20250915220000 +0800">
+		<title>Flipside</title>
+		<desc>&lt;p&gt;Welcome to hip-hop/modern r&amp;amp;b on the flipside!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212564/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_13.jpg" />
+	</programme>
+	<programme channel="indiego" start="20250915220000 +0800" stop="20250916000000 +0800">
+		<title>Under The Radar</title>
+		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers.&amp;nbsp;&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211870/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_4.jpg" />
 	</programme>
 </tv>
