@@ -48,38 +48,6 @@
 		<display-name>indiego</display-name>
 		<icon src="https://www16.mediacorp.sg/melisten/radiostation-logos/indiego.png" />
 	</channel>
-	<programme channel="Class95" start="20251021000000 +0800" stop="20251021050000 +0800">
-		<title>The Best Mix of Music</title>
-		<desc />
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675214156/mediacorp/mel/image/2023-02/95-Tile-660x316px_1.jpg" />
-	</programme>
-	<programme channel="Class95" start="20251021050000 +0800" stop="20251021100000 +0800">
-		<title>Muttons In The Morning -  Justin Ang &amp; Vernon A</title>
-		<desc>&lt;p&gt;Wake up with Justin Ang &amp;amp; Vernon A, Muttons In The Morning! They'll drive you to work with lots of LOL, as they explore the lighter side of Singapore with you. Surprise birthday calls, spoof songs, big prizes and loads more fun stuff will get you to work with a smile.&lt;br /&gt;
-FB : &lt;a href="https://www.facebook.com/Class95FM" target="_blank"&gt;https://www.facebook.com/Class95FM&lt;/a&gt;&lt;br /&gt;
-Twitter : Class95FM&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740619425/mediacorp/mel/image/2025-02/tile_c95_01_660x316px.jpg" />
-	</programme>
-	<programme channel="Class95" start="20251021100000 +0800" stop="20251021140000 +0800">
-		<title>Lunchbreak with Yasminne Cheng</title>
-		<desc>&lt;p&gt;Join your work &amp;amp; lunch buddy Yasminne Cheng for the lowdown on the best eats in town, interesting trivia, roll-your-eyes jokes and more. Let her brighten up your work day!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740619541/mediacorp/mel/image/2025-02/tile_c95_02_660x316px.jpg" />
-	</programme>
-	<programme channel="Class95" start="20251021140000 +0800" stop="20251021170000 +0800">
-		<title>Afternoons with Rai</title>
-		<desc>Get over those sleepy weekday afternoons with Rai, cheering you past that post-lunch hump from 2-5pm with some Midday Motivation, music trivia and musings from Rai’s personal memoirs. Tune in to your Rai-dio!</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740619628/mediacorp/mel/image/2025-02/tile_c95_03_660x316px.jpg" />
-	</programme>
-	<programme channel="Class95" start="20251021170000 +0800" stop="20251021200000 +0800">
-		<title>Cartunes with Jean Danker &amp; Edward Russell</title>
-		<desc>&lt;p&gt;Jean Danker and Edward Russell drive you home weekdays from 5-8pm! Play the Everyday Quiz to win prizes and take a breather with the 6:15 Woosa. Share the ‘one thing that made you smile’ to win a prize from the pom pom basket! Plus they’ve got celebrity guests, entertainment news and so much more!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740619771/mediacorp/mel/image/2025-02/tile_c95_04_660x316px.jpg" />
-	</programme>
-	<programme channel="Class95" start="20251021200000 +0800" stop="20251022000000 +0800">
-		<title>Love Songs with Catherine Robert</title>
-		<desc>End the day with Catherine as she shares conversations on love and relationships, along with your favorite love songs!</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740619943/mediacorp/mel/image/2025-02/tile_c95_05_660x316px.jpg" />
-	</programme>
 	<programme channel="Class95" start="20251022000000 +0800" stop="20251022050000 +0800">
 		<title>The Best Mix of Music</title>
 		<desc />
@@ -248,42 +216,37 @@ Twitter : Class95FM&lt;/p&gt;</desc>
 		<desc>End the day with Catherine as she shares conversations on love and relationships, along with your favorite love songs!</desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740619943/mediacorp/mel/image/2025-02/tile_c95_05_660x316px.jpg" />
 	</programme>
-	<programme channel="meradioAdMap" start="20251021000000 +0800" stop="20251021060000 +0800">
-		<title>GOLD 905, Sounds Good, Feels Good.</title>
+	<programme channel="Class95" start="20251028000000 +0800" stop="20251028050000 +0800">
+		<title>The Best Mix of Music</title>
 		<desc />
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675213353/mediacorp/mel/image/2023-02/905-Tile-660x316px_2.jpg" />
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675214156/mediacorp/mel/image/2023-02/95-Tile-660x316px_1.jpg" />
 	</programme>
-	<programme channel="meradioAdMap" start="20251021060000 +0800" stop="20251021080000 +0800">
-		<title>The Breakfast Club with Gerald Koh &amp; Sophie Gollifer</title>
-		<desc>It's time to supercharge your morning with The Breakfast Club with Gerald Koh and Sophie Gollifer every weekday morning from 6am to 10am! And, everyone’s favourite local celebrity, Pierre Png, joins them every Tuesday from 8am to 10am! &amp;nbsp;Tune in to GOLD 905 and enjoy your morning commute with your favourite music, interactive contests and topics that matter to you!&amp;nbsp;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1753241608/mediacorp/mel/image/2025-07/tile_905_660x316px_sophiegerald.jpg" />
+	<programme channel="Class95" start="20251028050000 +0800" stop="20251028100000 +0800">
+		<title>Muttons In The Morning -  Justin Ang &amp; Vernon A</title>
+		<desc>&lt;p&gt;Wake up with Justin Ang &amp;amp; Vernon A, Muttons In The Morning! They'll drive you to work with lots of LOL, as they explore the lighter side of Singapore with you. Surprise birthday calls, spoof songs, big prizes and loads more fun stuff will get you to work with a smile.&lt;br /&gt;
+FB : &lt;a href="https://www.facebook.com/Class95FM" target="_blank"&gt;https://www.facebook.com/Class95FM&lt;/a&gt;&lt;br /&gt;
+Twitter : Class95FM&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740619425/mediacorp/mel/image/2025-02/tile_c95_01_660x316px.jpg" />
 	</programme>
-	<programme channel="meradioAdMap" start="20251021080000 +0800" stop="20251021100000 +0800">
-		<title>The Breakfast Club with Gerald Koh, Sophie Gollifer &amp; Pierre Png</title>
-		<desc>&lt;p&gt;It's time to supercharge your morning with The Breakfast Club with Gerald Koh and Sophie Gollifer every weekday morning from 6am to 10am! And, everyone’s favourite local celebrity, Pierre Png, joins them every Tuesday from 8am to 10am! &amp;nbsp;Tune in to GOLD 905 and enjoy your morning commute with your favourite music, interactive contests and topics that matter to you!&amp;nbsp;&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1748748514/mediacorp/mel/image/2025-06/tile_905_660x316px_pierresophiegerald.jpg" />
+	<programme channel="Class95" start="20251028100000 +0800" stop="20251028140000 +0800">
+		<title>Lunchbreak with Yasminne Cheng</title>
+		<desc>&lt;p&gt;Join your work &amp;amp; lunch buddy Yasminne Cheng for the lowdown on the best eats in town, interesting trivia, roll-your-eyes jokes and more. Let her brighten up your work day!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740619541/mediacorp/mel/image/2025-02/tile_c95_02_660x316px.jpg" />
 	</programme>
-	<programme channel="meradioAdMap" start="20251021100000 +0800" stop="20251021140000 +0800">
-		<title>Lunchtime Jukebox with Denise Tan</title>
-		<desc>&lt;p&gt;Ask for a song and eat to the beat as I play your requests, tempt you with yummy food recommendations and tantalize you with interesting daily trivia from 10am-2pm.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740618395/mediacorp/mel/image/2025-02/tile_905_03_660x316px.jpg" />
+	<programme channel="Class95" start="20251028140000 +0800" stop="20251028170000 +0800">
+		<title>Afternoons with Rai</title>
+		<desc>Get over those sleepy weekday afternoons with Rai, cheering you past that post-lunch hump from 2-5pm with some Midday Motivation, music trivia and musings from Rai’s personal memoirs. Tune in to your Rai-dio!</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740619628/mediacorp/mel/image/2025-02/tile_c95_03_660x316px.jpg" />
 	</programme>
-	<programme channel="meradioAdMap" start="20251021140000 +0800" stop="20251021160000 +0800">
-		<title>Number One Hits</title>
-		<desc>&lt;p&gt;Your favourite #1 Hits from 2pm to 4pm for the perfect afternoon soundtrack!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1719562567/mediacorp/mel/image/2024-06/905_tile_660x316px.jpg" />
+	<programme channel="Class95" start="20251028170000 +0800" stop="20251028200000 +0800">
+		<title>Cartunes with Jean Danker &amp; Edward Russell</title>
+		<desc>&lt;p&gt;Jean Danker and Edward Russell drive you home weekdays from 5-8pm! Play the Everyday Quiz to win prizes and take a breather with the 6:15 Woosa. Share the ‘one thing that made you smile’ to win a prize from the pom pom basket! Plus they’ve got celebrity guests, entertainment news and so much more!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740619771/mediacorp/mel/image/2025-02/tile_c95_04_660x316px.jpg" />
 	</programme>
-	<programme channel="meradioAdMap" start="20251021160000 +0800" stop="20251021200000 +0800">
-		<title>The Homestretch</title>
-		<desc>&lt;p&gt;You’ve put in the work today, now it’s time for that evening dip on The Homestretch. Come on in, the temperature’s just right! &amp;nbsp;From 4 to 8 pm, it’s a feel-good mix of timeless hits, all the music you grew up with and keeping things fresh with today’s top topics and the stuff that matters. &amp;nbsp;Get in on the topic of the day - he loves hearing from you, whether it’s through texts or calls. Share your favorite memories from the ’70s, ’80s, and ’90s. From classic tunes and bold fashion to local bites and old hangouts. &amp;nbsp;The Homestretch is the best way to unwind and enjoy your evening drive home.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1719562567/mediacorp/mel/image/2024-06/905_tile_660x316px.jpg" />
-	</programme>
-	<programme channel="meradioAdMap" start="20251021200000 +0800" stop="20251022000000 +0800">
-		<title>Nite Flite with Mr X</title>
-		<desc>&lt;p&gt;Rest and relaxation are the shows KPIs. Your captain Mr X pilots the four hour nightly journey with stops for all the day's news, a regular health check, your nightly diet of food stories, odd behavior, and a blast from musical past when he uncovers a buried treasure from the GOLDMINE. All the night you need on GOLD 905's flying themed day-ender!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740618605/mediacorp/mel/image/2025-02/tile_905_05_660x316px.jpg" />
+	<programme channel="Class95" start="20251028200000 +0800" stop="20251029000000 +0800">
+		<title>Love Songs with Catherine Robert</title>
+		<desc>End the day with Catherine as she shares conversations on love and relationships, along with your favorite love songs!</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740619943/mediacorp/mel/image/2025-02/tile_c95_05_660x316px.jpg" />
 	</programme>
 	<programme channel="meradioAdMap" start="20251022000000 +0800" stop="20251022060000 +0800">
 		<title>GOLD 905, Sounds Good, Feels Good.</title>
@@ -447,51 +410,42 @@ Twitter : Class95FM&lt;/p&gt;</desc>
 		<desc>&lt;p&gt;Rest and relaxation are the shows KPIs. Your captain Mr X pilots the four hour nightly journey with stops for all the day's news, a regular health check, your nightly diet of food stories, odd behavior, and a blast from musical past when he uncovers a buried treasure from the GOLDMINE. All the night you need on GOLD 905's flying themed day-ender!&lt;/p&gt;</desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740618605/mediacorp/mel/image/2025-02/tile_905_05_660x316px.jpg" />
 	</programme>
-	<programme channel="987" start="20251021000000 +0800" stop="20251021060000 +0800">
-		<title>Singapore’s No. 1 Hit Music Station</title>
+	<programme channel="meradioAdMap" start="20251028000000 +0800" stop="20251028060000 +0800">
+		<title>GOLD 905, Sounds Good, Feels Good.</title>
 		<desc />
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212979/mediacorp/mel/image/2023-02/987-Tile-660x316px_0.jpg" />
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675213353/mediacorp/mel/image/2023-02/905-Tile-660x316px_2.jpg" />
 	</programme>
-	<programme channel="987" start="20251021060000 +0800" stop="20251021100000 +0800">
-		<title>The Shock Circuit with Sonia &amp; Joakim</title>
-		<desc>&lt;p&gt;Weekdays 6-10am&lt;br /&gt;
-Find us on:&lt;br /&gt;
-TikTok: @heysoniachew / @itsjoakimgomez / @987fm&lt;br /&gt;
-Instagram: @soniachew / @joakimgomez / @987fm&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740620230/mediacorp/mel/image/2025-02/tile_987_01_660x316.jpg" />
+	<programme channel="meradioAdMap" start="20251028060000 +0800" stop="20251028080000 +0800">
+		<title>The Breakfast Club with Gerald Koh &amp; Sophie Gollifer</title>
+		<desc>It's time to supercharge your morning with The Breakfast Club with Gerald Koh and Sophie Gollifer every weekday morning from 6am to 10am! And, everyone’s favourite local celebrity, Pierre Png, joins them every Tuesday from 8am to 10am! &amp;nbsp;Tune in to GOLD 905 and enjoy your morning commute with your favourite music, interactive contests and topics that matter to you!&amp;nbsp;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1753241608/mediacorp/mel/image/2025-07/tile_905_660x316px_sophiegerald.jpg" />
 	</programme>
-	<programme channel="987" start="20251021100000 +0800" stop="20251021140000 +0800">
-		<title>Lunchbox with Natasha</title>
-		<desc>&lt;p&gt;Weekdays 10am-2pm&lt;br /&gt;
-Find us on:&amp;nbsp;&lt;br /&gt;
-TikTok: @irninat / @987fm&lt;br /&gt;
-Instagram: @irninat / @987fm&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740620354/mediacorp/mel/image/2025-02/tile_987_02_660x316.jpg" />
+	<programme channel="meradioAdMap" start="20251028080000 +0800" stop="20251028100000 +0800">
+		<title>The Breakfast Club with Gerald Koh, Sophie Gollifer &amp; Pierre Png</title>
+		<desc>&lt;p&gt;It's time to supercharge your morning with The Breakfast Club with Gerald Koh and Sophie Gollifer every weekday morning from 6am to 10am! And, everyone’s favourite local celebrity, Pierre Png, joins them every Tuesday from 8am to 10am! &amp;nbsp;Tune in to GOLD 905 and enjoy your morning commute with your favourite music, interactive contests and topics that matter to you!&amp;nbsp;&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1748748514/mediacorp/mel/image/2025-06/tile_905_660x316px_pierresophiegerald.jpg" />
 	</programme>
-	<programme channel="987" start="20251021140000 +0800" stop="20251021170000 +0800">
-		<title>The Halftime Show with Ann Nicole</title>
-		<desc>&lt;p&gt;The Halftime Show with Ann Nicole&lt;br /&gt;
-Weekdays 2-5pm&lt;br /&gt;
-Find us on:&lt;br /&gt;
-TikTok: @annnicoleng__ / @987fm&lt;br /&gt;
-Instagram: @annnicoleng__ / @987fm&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740620447/mediacorp/mel/image/2025-02/tile_987_03_660x316.jpg" />
+	<programme channel="meradioAdMap" start="20251028100000 +0800" stop="20251028140000 +0800">
+		<title>Lunchtime Jukebox with Denise Tan</title>
+		<desc>&lt;p&gt;Ask for a song and eat to the beat as I play your requests, tempt you with yummy food recommendations and tantalize you with interesting daily trivia from 10am-2pm.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740618395/mediacorp/mel/image/2025-02/tile_905_03_660x316px.jpg" />
 	</programme>
-	<programme channel="987" start="20251021170000 +0800" stop="20251021200000 +0800">
-		<title>Get Out with Kim</title>
-		<desc>&lt;p&gt;Weekdays 5-8pm&lt;br /&gt;
-Find us on:&lt;br /&gt;
-TikTok: @kimberlyhayleywang / @987fm&lt;br /&gt;
-Instagram: @ohhowstrange / @987fm&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1748751644/mediacorp/mel/image/2025-06/tile_987_660x316_kim.jpg" />
+	<programme channel="meradioAdMap" start="20251028140000 +0800" stop="20251028160000 +0800">
+		<title>Number One Hits</title>
+		<desc>&lt;p&gt;Your favourite #1 Hits from 2pm to 4pm for the perfect afternoon soundtrack!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1719562567/mediacorp/mel/image/2024-06/905_tile_660x316px.jpg" />
 	</programme>
-	<programme channel="987" start="20251021200000 +0800" stop="20251022000000 +0800">
-		<title>The Down Low with Germaine &amp; Avery</title>
-		<desc>&lt;p&gt;Weekdays 8pm-12mn&lt;br /&gt;
-Find us on:&lt;br /&gt;
-TikTok: @germaineleonora / @averyaloysius / @987fm&lt;br /&gt;
-Instagram: @germaineleonora / @averyaloysius / @987fm&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740621189/mediacorp/mel/image/2025-02/tile_987_05_660x316.jpg" />
+	<programme channel="meradioAdMap" start="20251028160000 +0800" stop="20251028200000 +0800">
+		<title>The Homestretch</title>
+		<desc>&lt;p&gt;You’ve put in the work today, now it’s time for that evening dip on The Homestretch. Come on in, the temperature’s just right! &amp;nbsp;From 4 to 8 pm, it’s a feel-good mix of timeless hits, all the music you grew up with and keeping things fresh with today’s top topics and the stuff that matters. &amp;nbsp;Get in on the topic of the day - he loves hearing from you, whether it’s through texts or calls. Share your favorite memories from the ’70s, ’80s, and ’90s. From classic tunes and bold fashion to local bites and old hangouts. &amp;nbsp;The Homestretch is the best way to unwind and enjoy your evening drive home.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1719562567/mediacorp/mel/image/2024-06/905_tile_660x316px.jpg" />
+	</programme>
+	<programme channel="meradioAdMap" start="20251028200000 +0800" stop="20251029000000 +0800">
+		<title>Nite Flite with Mr X</title>
+		<desc>&lt;p&gt;Rest and relaxation are the shows KPIs. Your captain Mr X pilots the four hour nightly journey with stops for all the day's news, a regular health check, your nightly diet of food stories, odd behavior, and a blast from musical past when he uncovers a buried treasure from the GOLDMINE. All the night you need on GOLD 905's flying themed day-ender!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740618605/mediacorp/mel/image/2025-02/tile_905_05_660x316px.jpg" />
 	</programme>
 	<programme channel="987" start="20251022000000 +0800" stop="20251022060000 +0800">
 		<title>Singapore’s No. 1 Hit Music Station</title>
@@ -718,85 +672,51 @@ TikTok: @germaineleonora / @averyaloysius / @987fm&lt;br /&gt;
 Instagram: @germaineleonora / @averyaloysius / @987fm&lt;/p&gt;</desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740621189/mediacorp/mel/image/2025-02/tile_987_05_660x316.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20251021000000 +0800" stop="20251021070000 +0800">
-		<title>CNA News &amp; Current Affairs Overnight</title>
-		<desc>&lt;p&gt;The latest from the CNA newsroom plus a showcase of the network’s award-winning current affairs programmes.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1639664766/mel-migration/cna-news---current-affairs-overnight-sat-sun-picture.jpg" />
+	<programme channel="987" start="20251028000000 +0800" stop="20251028060000 +0800">
+		<title>Singapore’s No. 1 Hit Music Station</title>
+		<desc />
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212979/mediacorp/mel/image/2023-02/987-Tile-660x316px_0.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20251021070000 +0800" stop="20251021080000 +0800">
-		<title>Open for Business with Andrea Heng and Hairianto Diman</title>
-		<desc>Kick-start your day with sharp insights, market updates, and the biggest business stories — all in one power-packed hour. Whether you’re making deals or making moves, Open For Business brings you news you can bank on and gets you ahead before the day even begins.</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520185/mediacorp/mel/image/2024-05/ml_asia_first_660x316.jpg" />
+	<programme channel="987" start="20251028060000 +0800" stop="20251028100000 +0800">
+		<title>The Shock Circuit with Sonia &amp; Joakim</title>
+		<desc>&lt;p&gt;Weekdays 6-10am&lt;br /&gt;
+Find us on:&lt;br /&gt;
+TikTok: @heysoniachew / @itsjoakimgomez / @987fm&lt;br /&gt;
+Instagram: @soniachew / @joakimgomez / @987fm&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740620230/mediacorp/mel/image/2025-02/tile_987_01_660x316.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20251021080000 +0800" stop="20251021100000 +0800">
-		<title>The Morning Report with Andrea Heng and Hairianto Diman</title>
-		<desc>&lt;p&gt;Stay in the know while on the move with The Morning Report, your essential briefing on the day’s biggest headlines. We cut through the noise with deep-dive discussions, expert insights, and fresh perspectives on stories that shape your world — plus lively conversations on sports, entertainment, and everything in between&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520185/mediacorp/mel/image/2024-05/ml_asia_first_660x316.jpg" />
+	<programme channel="987" start="20251028100000 +0800" stop="20251028140000 +0800">
+		<title>Lunchbox with Natasha</title>
+		<desc>&lt;p&gt;Weekdays 10am-2pm&lt;br /&gt;
+Find us on:&amp;nbsp;&lt;br /&gt;
+TikTok: @irninat / @987fm&lt;br /&gt;
+Instagram: @irninat / @987fm&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740620354/mediacorp/mel/image/2025-02/tile_987_02_660x316.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20251021100000 +0800" stop="20251021110000 +0800">
-		<title>Mind Your Money with Cheryl Goh</title>
-		<desc>Make it your business to learn how the right moves can pay off in your work, career and personal finance journeys. Whether it is tips on acing job interviews, positioning yourself for a promotion, or smarter investing through passive income, Mind Your Money will speak to experts to help you get ahead in your professional life.</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740333508/mediacorp/mel/image/2025-02/ml_cheryl_660x316.jpg" />
+	<programme channel="987" start="20251028140000 +0800" stop="20251028170000 +0800">
+		<title>The Halftime Show with Ann Nicole</title>
+		<desc>&lt;p&gt;The Halftime Show with Ann Nicole&lt;br /&gt;
+Weekdays 2-5pm&lt;br /&gt;
+Find us on:&lt;br /&gt;
+TikTok: @annnicoleng__ / @987fm&lt;br /&gt;
+Instagram: @annnicoleng__ / @987fm&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740620447/mediacorp/mel/image/2025-02/tile_987_03_660x316.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20251021110000 +0800" stop="20251021120000 +0800">
-		<title>Eat Drink Singapore with Cheryl Goh</title>
-		<desc>Refuel and power up over lunch as we dish out the best food and drinks spots in Singapore. From humble home-bakers to Michellin-starred chefs, hear from the hands that make our food and keep our bellies happy.</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740333508/mediacorp/mel/image/2025-02/ml_cheryl_660x316.jpg" />
+	<programme channel="987" start="20251028170000 +0800" stop="20251028200000 +0800">
+		<title>Get Out with Kim</title>
+		<desc>&lt;p&gt;Weekdays 5-8pm&lt;br /&gt;
+Find us on:&lt;br /&gt;
+TikTok: @kimberlyhayleywang / @987fm&lt;br /&gt;
+Instagram: @ohhowstrange / @987fm&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1748751644/mediacorp/mel/image/2025-06/tile_987_660x316_kim.jpg" />
 	</programme>
-	<programme channel="CNA938" start="20251021120000 +0800" stop="20251021130000 +0800">
-		<title>The Wellness Hour with Cheryl Goh</title>
-		<desc>Get your mind off work during your lunch break as we take you on a journey to better your mental and physical wellness. We'll look at the many ways you can take a break from the stresses of life and explore the latest trends in wellness - from pawrenting to exercise, retail therapy to what's hot among the young and young at heart.</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740333508/mediacorp/mel/image/2025-02/ml_cheryl_660x316.jpg" />
-	</programme>
-	<programme channel="CNA938" start="20251021130000 +0800" stop="20251021140000 +0800">
-		<title>CNA938 Rewind</title>
-		<desc>The best interviews from CNA938 on current affairs, business, money, health, wellness, and lifestyle, curated daily.</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1704187122/mediacorp/mel/image/2024-01/cna_tile_singapore-tonight-mon-fri-picture.jpg" />
-	</programme>
-	<programme channel="CNA938" start="20251021140000 +0800" stop="20251021150000 +0800">
-		<title>Made in SG with Melanie Oliveiro</title>
-		<desc>Did you know that the thumb drive was invented in Singapore? Or that fish-head curry was created in a Singapore kitchen way back in 1949? Tune in to ‘Made in SG’ with Melanie Oliveiro and find out what other inventions, services, F&amp;amp;B delights and indeed innovators were born in The Lion City and how they became success stories. No cap, all fact!</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
-	</programme>
-	<programme channel="CNA938" start="20251021150000 +0800" stop="20251021160000 +0800">
-		<title>Culture Club with Melanie Oliveiro</title>
-		<desc>‘Culture Club’ shines the spotlight on the arts, theatre, music and books as Melanie Oliveiro speaks with creatives who have a passion – and penchant - for dreaming up soul-stirring stuff. Whether it’s a rapper who’s just dropped his EP, a director detailing his/her latest movie, a playwright whose latest work piece creates a stir, or an author eager to talk about their latest novel: Culture Club is one to join - on air and online.</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
-	</programme>
-	<programme channel="CNA938" start="20251021160000 +0800" stop="20251021170000 +0800">
-		<title>Destination Anywhere Melanie Oliveiro</title>
-		<desc>Let Melanie Oliveiro take you on a continent-crossing trip around the world and/or get whisked away to exotic lands thanks to Destination Anywhere. Find out where in Singapore you can go to check out the latest historical trails, culturally-rich venues , events and even VR getaways.</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
-	</programme>
-	<programme channel="CNA938" start="20251021170000 +0800" stop="20251021190000 +0800">
-		<title>Singapore Today with Lance Alexander and Daniel Martin</title>
-		<desc>&lt;p&gt;At the end of a work day, Lance and Daniel help you take stock of the day’s news. Get insights from those in the know and hear what newsmakers have to say.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690884423/mediacorp/mel/image/2023-08/938_tile_ml_singapore_today_660x316.png" />
-	</programme>
-	<programme channel="CNA938" start="20251021190000 +0800" stop="20251021200000 +0800">
-		<title>Health and Wealth Lance Alexander and Daniel Martin</title>
-		<desc>Learn about the latest health trends with Daniel Martin on Health Matters, where he brings together experts to help you make sense of the latest health news. Then join Lance Alexander on Wealth Wise as he discusses money matters, analyses market trends and speaks to business owners to help build up your wealth.</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690884423/mediacorp/mel/image/2023-08/938_tile_ml_singapore_today_660x316.png" />
-	</programme>
-	<programme channel="CNA938" start="20251021200000 +0800" stop="20251021210000 +0800">
-		<title>A Letter To Myself with Joel Chua</title>
-		<desc>Be inspired by the person behind the personality on "A Letter to Myself", as newsmakers, thought leaders, and everyday people reveal the most valuable lessons they've learned through life.</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520404/mediacorp/mel/image/2024-05/ml_night_life_660x316.jpg" />
-	</programme>
-	<programme channel="CNA938" start="20251021210000 +0800" stop="20251021220000 +0800">
-		<title>CNA938 Rewind</title>
-		<desc>The best interviews from CNA938 on current affairs, business, money, health, wellness, and lifestyle, curated daily.</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690883700/mediacorp/mel/image/2023-08/cna_tile.jpg" />
-	</programme>
-	<programme channel="CNA938" start="20251021220000 +0800" stop="20251021235900 +0800">
-		<title>CNA News &amp; Current Affairs Overnight</title>
-		<desc>&lt;p&gt;The latest from the CNA newsroom plus a showcase of the network’s award-winning current affairs programmes.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1639664522/mel-migration/singapore-tonight-mon-fri-picture.jpg" />
-	</programme>
-	<programme channel="CNA938" start="20251021235900 +0800" stop="20251022000000 +0800">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://www16.mediacorp.sg/melisten/radiostation-logos/cna-938.png" />
+	<programme channel="987" start="20251028200000 +0800" stop="20251029000000 +0800">
+		<title>The Down Low with Germaine &amp; Avery</title>
+		<desc>&lt;p&gt;Weekdays 8pm-12mn&lt;br /&gt;
+Find us on:&lt;br /&gt;
+TikTok: @germaineleonora / @averyaloysius / @987fm&lt;br /&gt;
+Instagram: @germaineleonora / @averyaloysius / @987fm&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740621189/mediacorp/mel/image/2025-02/tile_987_05_660x316.jpg" />
 	</programme>
 	<programme channel="CNA938" start="20251022000000 +0800" stop="20251022070000 +0800">
 		<title>CNA News &amp; Current Affairs Overnight</title>
@@ -1343,39 +1263,85 @@ Instagram: @germaineleonora / @averyaloysius / @987fm&lt;/p&gt;</desc>
 		<desc>&lt;p&gt;The latest from the CNA newsroom plus a showcase of the network’s award-winning current affairs programmes.&lt;/p&gt;</desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1639664522/mel-migration/singapore-tonight-mon-fri-picture.jpg" />
 	</programme>
-	<programme channel="Symphony924" start="20251021000000 +0800" stop="20251021070000 +0800">
-		<title>Smooth Classics</title>
-		<desc>&lt;p&gt;And as the curtains fall across the starry night, let the smooth gentle classics carry you adrift into blissful slumber.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675213733/mediacorp/mel/image/2023-02/924-Tile-660x316px_4.jpg" />
+	<programme channel="CNA938" start="20251027235900 +0800" stop="20251028000000 +0800">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://www16.mediacorp.sg/melisten/radiostation-logos/cna-938.png" />
 	</programme>
-	<programme channel="Symphony924" start="20251021070000 +0800" stop="20251021100000 +0800">
-		<title>Breakfast with Andrew Lim</title>
-		<desc>&lt;p&gt;There’s no better way to start your mornings than with an inspiring breakfast spread of classical music, movie tunes and early music&lt;/p&gt;
-
-&lt;p&gt;All served up with Andrew Lim’s positive personality that lights up your day.&lt;/p&gt;
-
-&lt;p&gt;Don’t miss Breakfast with Andrew Lim, weekdays 7am to 10am!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740618824/mediacorp/mel/image/2025-02/tile_924_01_660x316px.jpg" />
+	<programme channel="CNA938" start="20251028000000 +0800" stop="20251028070000 +0800">
+		<title>CNA News &amp; Current Affairs Overnight</title>
+		<desc>&lt;p&gt;The latest from the CNA newsroom plus a showcase of the network’s award-winning current affairs programmes.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1639664766/mel-migration/cna-news---current-affairs-overnight-sat-sun-picture.jpg" />
 	</programme>
-	<programme channel="Symphony924" start="20251021100000 +0800" stop="20251021140000 +0800">
-		<title>Lunch Treats</title>
-		<desc />
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1705885129/mediacorp/mel/image/2024-01/924-tile-660x316px.jpg" />
+	<programme channel="CNA938" start="20251028070000 +0800" stop="20251028080000 +0800">
+		<title>Open for Business with Andrea Heng and Hairianto Diman</title>
+		<desc>Kick-start your day with sharp insights, market updates, and the biggest business stories — all in one power-packed hour. Whether you’re making deals or making moves, Open For Business brings you news you can bank on and gets you ahead before the day even begins.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520185/mediacorp/mel/image/2024-05/ml_asia_first_660x316.jpg" />
 	</programme>
-	<programme channel="Symphony924" start="20251021140000 +0800" stop="20251021170000 +0800">
-		<title>Afternoon Classics</title>
-		<desc />
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675213919/mediacorp/mel/image/2023-02/924-Tile-660x316px_7.jpg" />
+	<programme channel="CNA938" start="20251028080000 +0800" stop="20251028100000 +0800">
+		<title>The Morning Report with Andrea Heng and Hairianto Diman</title>
+		<desc>&lt;p&gt;Stay in the know while on the move with The Morning Report, your essential briefing on the day’s biggest headlines. We cut through the noise with deep-dive discussions, expert insights, and fresh perspectives on stories that shape your world — plus lively conversations on sports, entertainment, and everything in between&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520185/mediacorp/mel/image/2024-05/ml_asia_first_660x316.jpg" />
 	</programme>
-	<programme channel="Symphony924" start="20251021170000 +0800" stop="20251021200000 +0800">
-		<title>The Drive Home with Khim Oei</title>
-		<desc>&lt;p&gt;Unwind with the smoothest drive home in the evenings with your host, the bubbly Khim Oei and a selection of upbeat classics,crossovers and updates on the classical music scene.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740619025/mediacorp/mel/image/2025-02/tile_924_03_660x316px.jpg" />
+	<programme channel="CNA938" start="20251028100000 +0800" stop="20251028110000 +0800">
+		<title>Mind Your Money with Cheryl Goh</title>
+		<desc>Make it your business to learn how the right moves can pay off in your work, career and personal finance journeys. Whether it is tips on acing job interviews, positioning yourself for a promotion, or smarter investing through passive income, Mind Your Money will speak to experts to help you get ahead in your professional life.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740333508/mediacorp/mel/image/2025-02/ml_cheryl_660x316.jpg" />
 	</programme>
-	<programme channel="Symphony924" start="20251021200000 +0800" stop="20251022000000 +0800">
-		<title>Smooth Classics</title>
-		<desc>&lt;p&gt;And as the curtains fall across the starry night, let the smooth gentle classics carry you adrift into blissful slumber.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675213696/mediacorp/mel/image/2023-02/924-Tile-660x316px_3.jpg" />
+	<programme channel="CNA938" start="20251028110000 +0800" stop="20251028120000 +0800">
+		<title>Eat Drink Singapore with Cheryl Goh</title>
+		<desc>Refuel and power up over lunch as we dish out the best food and drinks spots in Singapore. From humble home-bakers to Michellin-starred chefs, hear from the hands that make our food and keep our bellies happy.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740333508/mediacorp/mel/image/2025-02/ml_cheryl_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20251028120000 +0800" stop="20251028130000 +0800">
+		<title>The Wellness Hour with Cheryl Goh</title>
+		<desc>Get your mind off work during your lunch break as we take you on a journey to better your mental and physical wellness. We'll look at the many ways you can take a break from the stresses of life and explore the latest trends in wellness - from pawrenting to exercise, retail therapy to what's hot among the young and young at heart.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740333508/mediacorp/mel/image/2025-02/ml_cheryl_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20251028130000 +0800" stop="20251028140000 +0800">
+		<title>CNA938 Rewind</title>
+		<desc>The best interviews from CNA938 on current affairs, business, money, health, wellness, and lifestyle, curated daily.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1704187122/mediacorp/mel/image/2024-01/cna_tile_singapore-tonight-mon-fri-picture.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20251028140000 +0800" stop="20251028150000 +0800">
+		<title>Made in SG with Melanie Oliveiro</title>
+		<desc>Did you know that the thumb drive was invented in Singapore? Or that fish-head curry was created in a Singapore kitchen way back in 1949? Tune in to ‘Made in SG’ with Melanie Oliveiro and find out what other inventions, services, F&amp;amp;B delights and indeed innovators were born in The Lion City and how they became success stories. No cap, all fact!</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20251028150000 +0800" stop="20251028160000 +0800">
+		<title>Culture Club with Melanie Oliveiro</title>
+		<desc>‘Culture Club’ shines the spotlight on the arts, theatre, music and books as Melanie Oliveiro speaks with creatives who have a passion – and penchant - for dreaming up soul-stirring stuff. Whether it’s a rapper who’s just dropped his EP, a director detailing his/her latest movie, a playwright whose latest work piece creates a stir, or an author eager to talk about their latest novel: Culture Club is one to join - on air and online.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20251028160000 +0800" stop="20251028170000 +0800">
+		<title>Destination Anywhere Melanie Oliveiro</title>
+		<desc>Let Melanie Oliveiro take you on a continent-crossing trip around the world and/or get whisked away to exotic lands thanks to Destination Anywhere. Find out where in Singapore you can go to check out the latest historical trails, culturally-rich venues , events and even VR getaways.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740334148/mediacorp/mel/image/2025-02/ml_melanie_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20251028170000 +0800" stop="20251028190000 +0800">
+		<title>Singapore Today with Lance Alexander and Daniel Martin</title>
+		<desc>&lt;p&gt;At the end of a work day, Lance and Daniel help you take stock of the day’s news. Get insights from those in the know and hear what newsmakers have to say.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690884423/mediacorp/mel/image/2023-08/938_tile_ml_singapore_today_660x316.png" />
+	</programme>
+	<programme channel="CNA938" start="20251028190000 +0800" stop="20251028200000 +0800">
+		<title>Health and Wealth Lance Alexander and Daniel Martin</title>
+		<desc>Learn about the latest health trends with Daniel Martin on Health Matters, where he brings together experts to help you make sense of the latest health news. Then join Lance Alexander on Wealth Wise as he discusses money matters, analyses market trends and speaks to business owners to help build up your wealth.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690884423/mediacorp/mel/image/2023-08/938_tile_ml_singapore_today_660x316.png" />
+	</programme>
+	<programme channel="CNA938" start="20251028200000 +0800" stop="20251028210000 +0800">
+		<title>A Letter To Myself with Joel Chua</title>
+		<desc>Be inspired by the person behind the personality on "A Letter to Myself", as newsmakers, thought leaders, and everyday people reveal the most valuable lessons they've learned through life.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1715520404/mediacorp/mel/image/2024-05/ml_night_life_660x316.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20251028210000 +0800" stop="20251028220000 +0800">
+		<title>CNA938 Rewind</title>
+		<desc>The best interviews from CNA938 on current affairs, business, money, health, wellness, and lifestyle, curated daily.</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1690883700/mediacorp/mel/image/2023-08/cna_tile.jpg" />
+	</programme>
+	<programme channel="CNA938" start="20251028220000 +0800" stop="20251028235900 +0800">
+		<title>CNA News &amp; Current Affairs Overnight</title>
+		<desc>&lt;p&gt;The latest from the CNA newsroom plus a showcase of the network’s award-winning current affairs programmes.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1639664522/mel-migration/singapore-tonight-mon-fri-picture.jpg" />
 	</programme>
 	<programme channel="Symphony924" start="20251022000000 +0800" stop="20251022070000 +0800">
 		<title>Smooth Classics</title>
@@ -1575,55 +1541,39 @@ Instagram: @germaineleonora / @averyaloysius / @987fm&lt;/p&gt;</desc>
 		<desc>&lt;p&gt;And as the curtains fall across the starry night, let the smooth gentle classics carry you adrift into blissful slumber.&lt;/p&gt;</desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675213696/mediacorp/mel/image/2023-02/924-Tile-660x316px_3.jpg" />
 	</programme>
-	<programme channel="Yes933" start="20251021000000 +0800" stop="20251021010000 +0800">
-		<title>Yeah 夜不打烊</title>
-		<desc>&lt;p&gt;夜深人静的时候，总有个人在这里陪你聊天谈心、听听好音乐！ 凌晨12点到1点，泽亮继续在【Yeah 夜不打烊】，让你的夜晚不孤单、不寂寞，为忙碌的一天画下完美句点！&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740967542/mediacorp/mel/image/2025-03/tile_933_09_660x316px.jpg" />
+	<programme channel="Symphony924" start="20251028000000 +0800" stop="20251028070000 +0800">
+		<title>Smooth Classics</title>
+		<desc>&lt;p&gt;And as the curtains fall across the starry night, let the smooth gentle classics carry you adrift into blissful slumber.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675213733/mediacorp/mel/image/2023-02/924-Tile-660x316px_4.jpg" />
 	</programme>
-	<programme channel="Yes933" start="20251021010000 +0800" stop="20251021060000 +0800">
-		<title>好歌不停播</title>
-		<desc>&lt;p&gt;顶尖流行音乐电台YES 933，引领潮流时代，你的潮流指标。&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675214314/mediacorp/mel/image/2023-02/933-Tile-660x316px.jpg" />
+	<programme channel="Symphony924" start="20251028070000 +0800" stop="20251028100000 +0800">
+		<title>Breakfast with Andrew Lim</title>
+		<desc>&lt;p&gt;There’s no better way to start your mornings than with an inspiring breakfast spread of classical music, movie tunes and early music&lt;/p&gt;
+
+&lt;p&gt;All served up with Andrew Lim’s positive personality that lights up your day.&lt;/p&gt;
+
+&lt;p&gt;Don’t miss Breakfast with Andrew Lim, weekdays 7am to 10am!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740618824/mediacorp/mel/image/2025-02/tile_924_01_660x316px.jpg" />
 	</programme>
-	<programme channel="Yes933" start="20251021060000 +0800" stop="20251021100000 +0800">
-		<title>大咖一起来</title>
-		<desc>&lt;p&gt;一天的开始，就让充满正能量的【大咖一起来】陪伴你！除了提供最新鲜、最即时的新闻，还有全民疯传的热辣话题！星期一到五，跟着不按牌理出牌的陈宁、美贵和Jeff，给你充满惊喜的每一个早晨！&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740615413/mediacorp/mel/image/2025-02/tile_933_01_660x316px.jpg" />
+	<programme channel="Symphony924" start="20251028100000 +0800" stop="20251028140000 +0800">
+		<title>Lunch Treats</title>
+		<desc />
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1705885129/mediacorp/mel/image/2024-01/924-tile-660x316px.jpg" />
 	</programme>
-	<programme channel="Yes933" start="20251021100000 +0800" stop="20251021120000 +0800">
-		<title>午刻乐乐 (AM)</title>
-		<desc>&lt;p&gt;减轻沉重的压力，提升效率专注力，上午10点的【午刻乐乐】AM版，跟着嘉蕙的精彩节奏，一起发现生活的魅力，让每一天都变得更”嘉”美丽！&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740615533/mediacorp/mel/image/2025-02/tile_933_02_660x316px.jpg" />
+	<programme channel="Symphony924" start="20251028140000 +0800" stop="20251028170000 +0800">
+		<title>Afternoon Classics</title>
+		<desc />
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675213919/mediacorp/mel/image/2023-02/924-Tile-660x316px_7.jpg" />
 	</programme>
-	<programme channel="Yes933" start="20251021120000 +0800" stop="20251021140000 +0800">
-		<title>午刻乐乐 (PM)</title>
-		<desc>&lt;p&gt;由嘉蕙和廷丰组合的【午刻乐乐】PM版，让你在中午用餐时间，”嘉”满”丰”富的美味特调，各种茶余饭后的新鲜话题，不只满足你的味蕾，还会 让你再三回味，保证是你不能错过的搭配组合！&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740615757/mediacorp/mel/image/2025-02/tile_933_03_660x316px.jpg" />
+	<programme channel="Symphony924" start="20251028170000 +0800" stop="20251028200000 +0800">
+		<title>The Drive Home with Khim Oei</title>
+		<desc>&lt;p&gt;Unwind with the smoothest drive home in the evenings with your host, the bubbly Khim Oei and a selection of upbeat classics,crossovers and updates on the classical music scene.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740619025/mediacorp/mel/image/2025-02/tile_924_03_660x316px.jpg" />
 	</programme>
-	<programme channel="Yes933" start="20251021140000 +0800" stop="20251021160000 +0800">
-		<title>午刻乐乐 (PM)</title>
-		<desc>&lt;p&gt;延续【午刻乐乐】的精彩特调，下午2点到4点，廷丰继续为你加油打气，除了分享生活和职场的各种情境话题，还有最好听、最流行的顶尖好歌陪着你 ！&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740615627/mediacorp/mel/image/2025-02/tile_933_04_660x316px.jpg" />
-	</programme>
-	<programme channel="Yes933" start="20251021160000 +0800" stop="20251021200000 +0800">
-		<title>双节坤佳</title>
-		<desc>&lt;p&gt;新鲜搭配，绝妙组合，由钟坤华、张颖双和陈启佳的三人组合【双节坤佳】来啦！ 不只幽默风趣、能量满满、还有全城关注的娱乐消息和艺人访问！ 忙碌了一天，让YES 933 【双节坤佳】陪你解压充电，击退生活上的各种烦脑！&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740615869/mediacorp/mel/image/2025-02/tile_933_05_660x316px.jpg" />
-	</programme>
-	<programme channel="Yes933" start="20251021200000 +0800" stop="20251021220000 +0800">
-		<title>Yeah 夜不打烊</title>
-		<desc>&lt;p&gt;青春不设限，给你一颗年轻活力的心！ 【Yeah 夜不打烊】周一至周五晚上8点，先让品隽为你做个暖身，因为连续五个小时，有超多精彩的内容等你来探索！&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740616213/mediacorp/mel/image/2025-02/tile_933_06_660x316px.jpg" />
-	</programme>
-	<programme channel="Yes933" start="20251021220000 +0800" stop="20251021230000 +0800">
-		<title>Yeah 夜不打烊</title>
-		<desc>&lt;p&gt;青春贺尔蒙才正要绽放！ 周一至周五晚上10点【Yeah 夜不打烊】，泽亮和品隽要给你充满青春活力、最Young最有吸引力的晚班节目。 究竟两位帅气的型男DJ，会带给你哪些不能错过的话题内容？ 卖个关子，准时收听就对啰！&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740616005/mediacorp/mel/image/2025-02/tile_933_07_660x316px.jpg" />
-	</programme>
-	<programme channel="Yes933" start="20251021230000 +0800" stop="20251022000000 +0800">
-		<title>Yeah 夜不打烊</title>
-		<desc>&lt;p&gt;越夜越精彩！除了泽亮和品隽，晚上11点还有宇容的加入，表达不同观点，尝试各种新鲜挑战！没有准时收听，别说你还年轻！&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740616107/mediacorp/mel/image/2025-02/tile_933_08_660x316px_v2.jpg" />
+	<programme channel="Symphony924" start="20251028200000 +0800" stop="20251029000000 +0800">
+		<title>Smooth Classics</title>
+		<desc>&lt;p&gt;And as the curtains fall across the starry night, let the smooth gentle classics carry you adrift into blissful slumber.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675213696/mediacorp/mel/image/2023-02/924-Tile-660x316px_3.jpg" />
 	</programme>
 	<programme channel="Yes933" start="20251022000000 +0800" stop="20251022010000 +0800">
 		<title>Yeah 夜不打烊</title>
@@ -1886,58 +1836,55 @@ Kevin participated in Mediacorp's YES 933 Hey DJ! Competition, where he emerged 
 		<desc>&lt;p&gt;越夜越精彩！除了泽亮和品隽，晚上11点还有宇容的加入，表达不同观点，尝试各种新鲜挑战！没有准时收听，别说你还年轻！&lt;/p&gt;</desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740616107/mediacorp/mel/image/2025-02/tile_933_08_660x316px_v2.jpg" />
 	</programme>
-	<programme channel="Love972" start="20251021000000 +0800" stop="20251021060000 +0800">
-		<title>最爱K歌</title>
-		<desc>&lt;p&gt;首首最爱K歌陪着你。&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675214935/mediacorp/mel/image/2023-02/972-Tile-660x316px.jpg" />
+	<programme channel="Yes933" start="20251028000000 +0800" stop="20251028010000 +0800">
+		<title>Yeah 夜不打烊</title>
+		<desc>&lt;p&gt;夜深人静的时候，总有个人在这里陪你聊天谈心、听听好音乐！ 凌晨12点到1点，泽亮继续在【Yeah 夜不打烊】，让你的夜晚不孤单、不寂寞，为忙碌的一天画下完美句点！&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740967542/mediacorp/mel/image/2025-03/tile_933_09_660x316px.jpg" />
 	</programme>
-	<programme channel="Love972" start="20251021060000 +0800" stop="20251021110000 +0800">
-		<title>早安！玉建煌崇</title>
-		<desc>&lt;p&gt;以轻松幽默的方式带出国内外新闻以及娱乐讯息；一起开心学双语，还有逗趣的嘉宾访问！让4位风格鲜明的主持人说说唱唱，陪你度过周一到周五早上6点到11点的快乐时光。亲切、搞笑、充满正能量的欢乐早班，绝对是我们 "玉建煌崇"！&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740617159/mediacorp/mel/image/2025-02/tile_972_01_660x316px.jpg" />
+	<programme channel="Yes933" start="20251028010000 +0800" stop="20251028060000 +0800">
+		<title>好歌不停播</title>
+		<desc>&lt;p&gt;顶尖流行音乐电台YES 933，引领潮流时代，你的潮流指标。&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675214314/mediacorp/mel/image/2023-02/933-Tile-660x316px.jpg" />
 	</programme>
-	<programme channel="Love972" start="20251021110000 +0800" stop="20251021140000 +0800">
-		<title>蔡蔡郭</title>
-		<desc>每天忙碌的生活 ，让你变得太紧绷！中午吃饭的时候，记得来听《蔡蔡郭》：三个老喷友 - 蔡荣祖 + 蔡礼莲 + 郭亮，让你放松开口笑！
-&lt;p&gt;11am：曾经流行永远好听 (周一&amp;amp;周二)：重温好歌 |&amp;nbsp;Super Power 永续力(周三)：分享环保课题 |&amp;nbsp;假如没有(周四&amp;amp;周五)：追根究底，理解关键&lt;br /&gt;
-&lt;br /&gt;
-12pm：午餐吃什么?&lt;br /&gt;
-&lt;br /&gt;
-1pm：给3个喷友的故事加以褒贬&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740617276/mediacorp/mel/image/2025-02/tile_972_02_660x316px_v2.jpg" />
+	<programme channel="Yes933" start="20251028060000 +0800" stop="20251028100000 +0800">
+		<title>大咖一起来</title>
+		<desc>&lt;p&gt;一天的开始，就让充满正能量的【大咖一起来】陪伴你！除了提供最新鲜、最即时的新闻，还有全民疯传的热辣话题！星期一到五，跟着不按牌理出牌的陈宁、美贵和Jeff，给你充满惊喜的每一个早晨！&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740615413/mediacorp/mel/image/2025-02/tile_933_01_660x316px.jpg" />
 	</programme>
-	<programme channel="Love972" start="20251021140000 +0800" stop="20251021170000 +0800">
-		<title>最爱粉TASTIC</title>
-		<desc>&lt;p&gt;一起关注健康话题、探讨家庭之道、学做美味食谱，与艺人嘉宾开心互动，保证你的下午~粉tastic！&lt;br /&gt;
-2pm：星期一 &amp;amp; 五《健康粉Tastic》| 星期二 &amp;amp; 四 《医疗大小事》| 星期三《厨房粉Tastic》&lt;br /&gt;
-3pm：星期一至五 《最爱找一找 Happy Searching!》| 嘉宾：莫小玲 (星期一) / DAS (星期二) / 杨志龙 Ben (星期四)&lt;br /&gt;
-4pm：星期一至五《粉丝 Happy Hour》"粉"丝专属天地，一起互动聊天，为粉丝服务，传达正能量！&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740617648/mediacorp/mel/image/2025-02/tile_972_03_660x316px.jpg" />
+	<programme channel="Yes933" start="20251028100000 +0800" stop="20251028120000 +0800">
+		<title>午刻乐乐 (AM)</title>
+		<desc>&lt;p&gt;减轻沉重的压力，提升效率专注力，上午10点的【午刻乐乐】AM版，跟着嘉蕙的精彩节奏，一起发现生活的魅力，让每一天都变得更”嘉”美丽！&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740615533/mediacorp/mel/image/2025-02/tile_933_02_660x316px.jpg" />
 	</programme>
-	<programme channel="Love972" start="20251021170000 +0800" stop="20251021200000 +0800">
-		<title>爱慧圣莉</title>
-		<desc>&lt;p&gt;圣安、玛莉、慧诗(星期二至四) 和你一起度过胜利的每一天！&lt;/p&gt;
-
-&lt;p&gt;5pm：《我们都要圣》游戏时间，斗智斗勇，一分高下&lt;/p&gt;
-
-&lt;p&gt;6pm：《我们都慧爱》吃喝玩乐，热搜好玩、吃在972、旅游非FUN不可&lt;/p&gt;
-
-&lt;p&gt;7pm：《我们经莉过》分享生活小确幸、谈话题、艺人专访&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740617741/mediacorp/mel/image/2025-02/tile_972_04_660x316px.jpg" />
+	<programme channel="Yes933" start="20251028120000 +0800" stop="20251028140000 +0800">
+		<title>午刻乐乐 (PM)</title>
+		<desc>&lt;p&gt;由嘉蕙和廷丰组合的【午刻乐乐】PM版，让你在中午用餐时间，”嘉”满”丰”富的美味特调，各种茶余饭后的新鲜话题，不只满足你的味蕾，还会 让你再三回味，保证是你不能错过的搭配组合！&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740615757/mediacorp/mel/image/2025-02/tile_933_03_660x316px.jpg" />
 	</programme>
-	<programme channel="Love972" start="20251021200000 +0800" stop="20251021230000 +0800">
-		<title>811 娜坚房</title>
-		<desc>&lt;p&gt;8pm - 9pm：音乐房 - 古早味 ( 星期二至六 ) - 回味 80s/90s 经典歌曲&lt;/p&gt;
-
-&lt;p&gt;9pm - 10pm：出气房(一) | 调查房：娱乐八卦(二) 、侦探游戏(三)、 冷知识知多少(四)、幸福房(性不性福由你)&lt;/p&gt;
-
-&lt;p&gt;10pm - 11pm：辅导房：江爱洪三姨(一)、戏剧房：坚剧任务(二)、推理房：世界奇案(三)、藏酒室：饮饮作乐(四)、大厅聊天室(五)&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740617879/mediacorp/mel/image/2025-02/tile_972_05_660x316px.jpg" />
+	<programme channel="Yes933" start="20251028140000 +0800" stop="20251028160000 +0800">
+		<title>午刻乐乐 (PM)</title>
+		<desc>&lt;p&gt;延续【午刻乐乐】的精彩特调，下午2点到4点，廷丰继续为你加油打气，除了分享生活和职场的各种情境话题，还有最好听、最流行的顶尖好歌陪着你 ！&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740615627/mediacorp/mel/image/2025-02/tile_933_04_660x316px.jpg" />
 	</programme>
-	<programme channel="Love972" start="20251021230000 +0800" stop="20251022000000 +0800">
-		<title>最爱K歌</title>
-		<desc>&lt;p&gt;首首最爱K歌陪着你。&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675214935/mediacorp/mel/image/2023-02/972-Tile-660x316px.jpg" />
+	<programme channel="Yes933" start="20251028160000 +0800" stop="20251028200000 +0800">
+		<title>双节坤佳</title>
+		<desc>&lt;p&gt;新鲜搭配，绝妙组合，由钟坤华、张颖双和陈启佳的三人组合【双节坤佳】来啦！ 不只幽默风趣、能量满满、还有全城关注的娱乐消息和艺人访问！ 忙碌了一天，让YES 933 【双节坤佳】陪你解压充电，击退生活上的各种烦脑！&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740615869/mediacorp/mel/image/2025-02/tile_933_05_660x316px.jpg" />
+	</programme>
+	<programme channel="Yes933" start="20251028200000 +0800" stop="20251028220000 +0800">
+		<title>Yeah 夜不打烊</title>
+		<desc>&lt;p&gt;青春不设限，给你一颗年轻活力的心！ 【Yeah 夜不打烊】周一至周五晚上8点，先让品隽为你做个暖身，因为连续五个小时，有超多精彩的内容等你来探索！&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740616213/mediacorp/mel/image/2025-02/tile_933_06_660x316px.jpg" />
+	</programme>
+	<programme channel="Yes933" start="20251028220000 +0800" stop="20251028230000 +0800">
+		<title>Yeah 夜不打烊</title>
+		<desc>&lt;p&gt;青春贺尔蒙才正要绽放！ 周一至周五晚上10点【Yeah 夜不打烊】，泽亮和品隽要给你充满青春活力、最Young最有吸引力的晚班节目。 究竟两位帅气的型男DJ，会带给你哪些不能错过的话题内容？ 卖个关子，准时收听就对啰！&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740616005/mediacorp/mel/image/2025-02/tile_933_07_660x316px.jpg" />
+	</programme>
+	<programme channel="Yes933" start="20251028230000 +0800" stop="20251029000000 +0800">
+		<title>Yeah 夜不打烊</title>
+		<desc>&lt;p&gt;越夜越精彩！除了泽亮和品隽，晚上11点还有宇容的加入，表达不同观点，尝试各种新鲜挑战！没有准时收听，别说你还年轻！&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740616107/mediacorp/mel/image/2025-02/tile_933_08_660x316px_v2.jpg" />
 	</programme>
 	<programme channel="Love972" start="20251022000000 +0800" stop="20251022060000 +0800">
 		<title>最爱K歌</title>
@@ -2225,40 +2172,58 @@ Kevin participated in Mediacorp's YES 933 Hey DJ! Competition, where he emerged 
 		<desc>&lt;p&gt;首首最爱K歌陪着你。&lt;/p&gt;</desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675214935/mediacorp/mel/image/2023-02/972-Tile-660x316px.jpg" />
 	</programme>
-	<programme channel="Capital958" start="20251021000000 +0800" stop="20251021060000 +0800">
-		<title>年代金曲，纯粹.歌</title>
-		<desc>&lt;p&gt;首首年代金曲，让你夜里回味无穷。&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675215227/mediacorp/mel/image/2023-02/958-Tile-660x316px_0.jpg" />
+	<programme channel="Love972" start="20251028000000 +0800" stop="20251028060000 +0800">
+		<title>最爱K歌</title>
+		<desc>&lt;p&gt;首首最爱K歌陪着你。&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675214935/mediacorp/mel/image/2023-02/972-Tile-660x316px.jpg" />
 	</programme>
-	<programme channel="Capital958" start="20251021060000 +0800" stop="20251021100000 +0800">
-		<title>城市早点名</title>
-		<desc>&lt;p&gt;资讯碰撞，铿锵开讲！&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740621780/mediacorp/mel/image/2025-02/tile_958_01_660x316px_v2_0.jpg" />
+	<programme channel="Love972" start="20251028060000 +0800" stop="20251028110000 +0800">
+		<title>早安！玉建煌崇</title>
+		<desc>&lt;p&gt;以轻松幽默的方式带出国内外新闻以及娱乐讯息；一起开心学双语，还有逗趣的嘉宾访问！让4位风格鲜明的主持人说说唱唱，陪你度过周一到周五早上6点到11点的快乐时光。亲切、搞笑、充满正能量的欢乐早班，绝对是我们 "玉建煌崇"！&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740617159/mediacorp/mel/image/2025-02/tile_972_01_660x316px.jpg" />
 	</programme>
-	<programme channel="Capital958" start="20251021100000 +0800" stop="20251021130000 +0800">
-		<title>城市007</title>
-		<desc>&lt;p&gt;艺人达人，娱乐生活！&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740621907/mediacorp/mel/image/2025-02/tile_958_03_660x316px_0.jpg" />
+	<programme channel="Love972" start="20251028110000 +0800" stop="20251028140000 +0800">
+		<title>蔡蔡郭</title>
+		<desc>每天忙碌的生活 ，让你变得太紧绷！中午吃饭的时候，记得来听《蔡蔡郭》：三个老喷友 - 蔡荣祖 + 蔡礼莲 + 郭亮，让你放松开口笑！
+&lt;p&gt;11am：曾经流行永远好听 (周一&amp;amp;周二)：重温好歌 |&amp;nbsp;Super Power 永续力(周三)：分享环保课题 |&amp;nbsp;假如没有(周四&amp;amp;周五)：追根究底，理解关键&lt;br /&gt;
+&lt;br /&gt;
+12pm：午餐吃什么?&lt;br /&gt;
+&lt;br /&gt;
+1pm：给3个喷友的故事加以褒贬&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740617276/mediacorp/mel/image/2025-02/tile_972_02_660x316px_v2.jpg" />
 	</programme>
-	<programme channel="Capital958" start="20251021130000 +0800" stop="20251021160000 +0800">
-		<title>城市一加一</title>
-		<desc>午后闲情，充实心灵！</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1751264105/mediacorp/mel/image/2025-06/tile_958_shujun_660x316px.jpg" />
+	<programme channel="Love972" start="20251028140000 +0800" stop="20251028170000 +0800">
+		<title>最爱粉TASTIC</title>
+		<desc>&lt;p&gt;一起关注健康话题、探讨家庭之道、学做美味食谱，与艺人嘉宾开心互动，保证你的下午~粉tastic！&lt;br /&gt;
+2pm：星期一 &amp;amp; 五《健康粉Tastic》| 星期二 &amp;amp; 四 《医疗大小事》| 星期三《厨房粉Tastic》&lt;br /&gt;
+3pm：星期一至五 《最爱找一找 Happy Searching!》| 嘉宾：莫小玲 (星期一) / DAS (星期二) / 杨志龙 Ben (星期四)&lt;br /&gt;
+4pm：星期一至五《粉丝 Happy Hour》"粉"丝专属天地，一起互动聊天，为粉丝服务，传达正能量！&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740617648/mediacorp/mel/image/2025-02/tile_972_03_660x316px.jpg" />
 	</programme>
-	<programme channel="Capital958" start="20251021160000 +0800" stop="20251021200000 +0800">
-		<title>城市号列车</title>
-		<desc>&lt;p&gt;开启愉快下班之旅！&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1751264219/mediacorp/mel/image/2025-06/tile_958_jianbing_weiying_660x316px.jpg" />
+	<programme channel="Love972" start="20251028170000 +0800" stop="20251028200000 +0800">
+		<title>爱慧圣莉</title>
+		<desc>&lt;p&gt;圣安、玛莉、慧诗(星期二至四) 和你一起度过胜利的每一天！&lt;/p&gt;
+
+&lt;p&gt;5pm：《我们都要圣》游戏时间，斗智斗勇，一分高下&lt;/p&gt;
+
+&lt;p&gt;6pm：《我们都慧爱》吃喝玩乐，热搜好玩、吃在972、旅游非FUN不可&lt;/p&gt;
+
+&lt;p&gt;7pm：《我们经莉过》分享生活小确幸、谈话题、艺人专访&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740617741/mediacorp/mel/image/2025-02/tile_972_04_660x316px.jpg" />
 	</programme>
-	<programme channel="Capital958" start="20251021200000 +0800" stop="20251021230000 +0800">
-		<title>城市新花Young!</title>
-		<desc>多Young夜晚，探索新奇！</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1751264365/mediacorp/mel/image/2025-06/tile_958_linxun_660x316px.jpg" />
+	<programme channel="Love972" start="20251028200000 +0800" stop="20251028230000 +0800">
+		<title>811 娜坚房</title>
+		<desc>&lt;p&gt;8pm - 9pm：音乐房 - 古早味 ( 星期二至六 ) - 回味 80s/90s 经典歌曲&lt;/p&gt;
+
+&lt;p&gt;9pm - 10pm：出气房(一) | 调查房：娱乐八卦(二) 、侦探游戏(三)、 冷知识知多少(四)、幸福房(性不性福由你)&lt;/p&gt;
+
+&lt;p&gt;10pm - 11pm：辅导房：江爱洪三姨(一)、戏剧房：坚剧任务(二)、推理房：世界奇案(三)、藏酒室：饮饮作乐(四)、大厅聊天室(五)&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740617879/mediacorp/mel/image/2025-02/tile_972_05_660x316px.jpg" />
 	</programme>
-	<programme channel="Capital958" start="20251021230000 +0800" stop="20251022000000 +0800">
-		<title>年代金曲，纯粹.歌</title>
-		<desc>&lt;p&gt;首首年代动听金曲，让你夜里回味无穷。&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675215166/mediacorp/mel/image/2023-02/958-Tile-660x316px.jpg" />
+	<programme channel="Love972" start="20251028230000 +0800" stop="20251029000000 +0800">
+		<title>最爱K歌</title>
+		<desc>&lt;p&gt;首首最爱K歌陪着你。&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675214935/mediacorp/mel/image/2023-02/972-Tile-660x316px.jpg" />
 	</programme>
 	<programme channel="Capital958" start="20251022000000 +0800" stop="20251022060000 +0800">
 		<title>年代金曲，纯粹.歌</title>
@@ -2460,84 +2425,40 @@ Kevin participated in Mediacorp's YES 933 Hey DJ! Competition, where he emerged 
 		<desc>&lt;p&gt;首首年代动听金曲，让你夜里回味无穷。&lt;/p&gt;</desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675215166/mediacorp/mel/image/2023-02/958-Tile-660x316px.jpg" />
 	</programme>
-	<programme channel="Ria897" start="20251021000000 +0800" stop="20251021020000 +0800">
-		<title>Misteri Jam 12</title>
-		<desc>&lt;p&gt;Far Anwar brings you horror stories that will make your blood runs cold in Misteri Jam 12!&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;#MisteriJam12&amp;nbsp;#MJ12GerunMalam #RIA897&amp;nbsp;#1SGRadioNetwork&lt;br /&gt;
-&amp;nbsp;&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740377385/mediacorp/mel/image/2025-02/tile_897_05_anwarsmile_660x316px.jpg" />
+	<programme channel="Capital958" start="20251028000000 +0800" stop="20251028060000 +0800">
+		<title>年代金曲，纯粹.歌</title>
+		<desc>&lt;p&gt;首首年代金曲，让你夜里回味无穷。&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675215227/mediacorp/mel/image/2023-02/958-Tile-660x316px_0.jpg" />
 	</programme>
-	<programme channel="Ria897" start="20251021020000 +0800" stop="20251021070000 +0800">
-		<title>RIA MIX TAPE</title>
-		<desc>Free and easy listening</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675217050/mediacorp/mel/image/2023-02/897-Tile-660x316px_1.jpg" />
+	<programme channel="Capital958" start="20251028060000 +0800" stop="20251028100000 +0800">
+		<title>城市早点名</title>
+		<desc>&lt;p&gt;资讯碰撞，铿锵开讲！&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740621780/mediacorp/mel/image/2025-02/tile_958_01_660x316px_v2_0.jpg" />
 	</programme>
-	<programme channel="Ria897" start="20251021070000 +0800" stop="20251021100000 +0800">
-		<title>#2BudakNakal</title>
-		<desc>&lt;p&gt;Electrify your morning with the dynamic duo, Nity Baizura and Zuhairi Idris, with their wit and humour! A segment infused with quotes of the day, special and interesting happenings around the world, birthday pranks and other fascinating segments that will invigorate your mind!&lt;/p&gt;
-
-&lt;p&gt;#2BudakNakal #RIA897&amp;nbsp;#1SGRadioNetwork&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740376464/mediacorp/mel/image/2025-02/tile_897_01_nityzuhairi_660x316px.jpg" />
+	<programme channel="Capital958" start="20251028100000 +0800" stop="20251028130000 +0800">
+		<title>城市007</title>
+		<desc>&lt;p&gt;艺人达人，娱乐生活！&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740621907/mediacorp/mel/image/2025-02/tile_958_03_660x316px_0.jpg" />
 	</programme>
-	<programme channel="Ria897" start="20251021100000 +0800" stop="20251021120000 +0800">
-		<title>Oh My Gurls (Dalina)</title>
-		<desc>&lt;p&gt;Be enthralled with a plethora of information exploring on fun facts, health tips and bizarre facts that will definitely arouse curiosity and interest! In addition, listeners can also partake in #2Baris, a poem segment that will be the inducement of much hilarity!&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;#OhMyGurls #RIA897 #1SGRadioNetwork&lt;br /&gt;
-&amp;nbsp;&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740376600/mediacorp/mel/image/2025-02/tile_897_02_dalina_660x316px.jpg" />
+	<programme channel="Capital958" start="20251028130000 +0800" stop="20251028160000 +0800">
+		<title>城市一加一</title>
+		<desc>午后闲情，充实心灵！</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1751264105/mediacorp/mel/image/2025-06/tile_958_shujun_660x316px.jpg" />
 	</programme>
-	<programme channel="Ria897" start="20251021120000 +0800" stop="20251021140000 +0800">
-		<title>Oh My Gurls (Dalina and Rarah)</title>
-		<desc>&lt;p&gt;These wondrous duos will furnish you with a surfeit information of the latest celebrity news together with cafés and viral food information that will definitely satisfy your cravings!&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;#OhMyGurls #RIA897 #1SGRadioNetwork&lt;br /&gt;
-&amp;nbsp;&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740377016/mediacorp/mel/image/2025-02/tile_897_02_dalinararah_660x316px.jpg" />
+	<programme channel="Capital958" start="20251028160000 +0800" stop="20251028200000 +0800">
+		<title>城市号列车</title>
+		<desc>&lt;p&gt;开启愉快下班之旅！&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1751264219/mediacorp/mel/image/2025-06/tile_958_jianbing_weiying_660x316px.jpg" />
 	</programme>
-	<programme channel="Ria897" start="20251021140000 +0800" stop="20251021170000 +0800">
-		<title>RIA Mania</title>
-		<desc>&lt;p&gt;Free and easy listening&lt;/p&gt;
-
-&lt;p&gt;#RIAMania&amp;nbsp;#RIA897#1SGRadioNetwork&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1688544078/mediacorp/mel/image/2023-07/897-tile-660x316px.jpg" />
+	<programme channel="Capital958" start="20251028200000 +0800" stop="20251028230000 +0800">
+		<title>城市新花Young!</title>
+		<desc>多Young夜晚，探索新奇！</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1751264365/mediacorp/mel/image/2025-06/tile_958_linxun_660x316px.jpg" />
 	</programme>
-	<programme channel="Ria897" start="20251021170000 +0800" stop="20251021200000 +0800">
-		<title>RIA Kruz</title>
-		<desc>&lt;p&gt;Cruise your way home with compelling subject matters that will evoke one’s curiosity and interest! Such instances are those related to youths, gender issues, sports news and updates and many more!&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;#RIAKruz&amp;nbsp;#RIA897 #1SGRadioNetwork&lt;br /&gt;
-&amp;nbsp;&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1746469107/mediacorp/mel/image/2025-05/tile_897_03_fadli_660x316px.jpg" />
-	</programme>
-	<programme channel="Ria897" start="20251021200000 +0800" stop="20251021230000 +0800">
-		<title>Malam Masih Muda (3M)</title>
-		<desc>&lt;p&gt;A specially curated program filled with Indie and love songs. Also bursting at the seams with quizzes, singing challenge segment, out of the world information and love confessions by listeners. Azura Goh and Ezam Ernady will also be sharing their thoughts on love issues and this will definitely jostle one’s mind and funny bone!&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;#MalamMasihMuda #RIA897 #1SGRadioNetwork&lt;br /&gt;
-&amp;nbsp;&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740377242/mediacorp/mel/image/2025-02/tile_897_04_azuraezam_660x316px.jpg" />
-	</programme>
-	<programme channel="Ria897" start="20251021230000 +0800" stop="20251022000000 +0800">
-		<title>WASSUP LOVE</title>
-		<desc>#MalamMasihMuda #RIA897 #1SGRadioNetwork&lt;br /&gt;
-&amp;nbsp;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1705308861/mediacorp/mel/image/2024-01/897-tile-660x316px.jpg" />
+	<programme channel="Capital958" start="20251028230000 +0800" stop="20251029000000 +0800">
+		<title>年代金曲，纯粹.歌</title>
+		<desc>&lt;p&gt;首首年代动听金曲，让你夜里回味无穷。&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675215166/mediacorp/mel/image/2023-02/958-Tile-660x316px.jpg" />
 	</programme>
 	<programme channel="Ria897" start="20251022000000 +0800" stop="20251022020000 +0800">
 		<title>Misteri Jam 12</title>
@@ -3013,40 +2934,84 @@ Intersperse with information on Korean artistes and happenings.&lt;br /&gt;
 &amp;nbsp;</desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1705308861/mediacorp/mel/image/2024-01/897-tile-660x316px.jpg" />
 	</programme>
-	<programme channel="Warna942" start="20251021000000 +0800" stop="20251021010000 +0800">
-		<title>Rock Klasik Warna</title>
-		<desc />
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675216398/mediacorp/mel/image/2023-02/942-Tile-660x316px_8.jpg" />
+	<programme channel="Ria897" start="20251028000000 +0800" stop="20251028020000 +0800">
+		<title>Misteri Jam 12</title>
+		<desc>&lt;p&gt;Far Anwar brings you horror stories that will make your blood runs cold in Misteri Jam 12!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;#MisteriJam12&amp;nbsp;#MJ12GerunMalam #RIA897&amp;nbsp;#1SGRadioNetwork&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740377385/mediacorp/mel/image/2025-02/tile_897_05_anwarsmile_660x316px.jpg" />
 	</programme>
-	<programme channel="Warna942" start="20251021010000 +0800" stop="20251021063000 +0800">
-		<title>Panorama Warna</title>
-		<desc />
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675216613/mediacorp/mel/image/2023-02/942-Tile-660x316px_14.jpg" />
+	<programme channel="Ria897" start="20251028020000 +0800" stop="20251028070000 +0800">
+		<title>RIA MIX TAPE</title>
+		<desc>Free and easy listening</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675217050/mediacorp/mel/image/2023-02/897-Tile-660x316px_1.jpg" />
 	</programme>
-	<programme channel="Warna942" start="20251021063000 +0800" stop="20251021100000 +0800">
-		<title>Espresso Warna</title>
-		<desc>&lt;p&gt;One stop lively morning show that serves daily insight, current affairs and a whole lot of laughter, together with their alter ego, “Pak Abu” &amp;amp; “Cik Yam”.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740627751/mediacorp/mel/image/2025-02/tile_942_01_660x316px.jpg" />
+	<programme channel="Ria897" start="20251028070000 +0800" stop="20251028100000 +0800">
+		<title>#2BudakNakal</title>
+		<desc>&lt;p&gt;Electrify your morning with the dynamic duo, Nity Baizura and Zuhairi Idris, with their wit and humour! A segment infused with quotes of the day, special and interesting happenings around the world, birthday pranks and other fascinating segments that will invigorate your mind!&lt;/p&gt;
+
+&lt;p&gt;#2BudakNakal #RIA897&amp;nbsp;#1SGRadioNetwork&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740376464/mediacorp/mel/image/2025-02/tile_897_01_nityzuhairi_660x316px.jpg" />
 	</programme>
-	<programme channel="Warna942" start="20251021100000 +0800" stop="20251021140000 +0800">
-		<title>Warna Vista</title>
-		<desc>&lt;p&gt;It's a lunch date with Aura Shai! Be delighted with food recipes and engaging family-motivated segments.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740627824/mediacorp/mel/image/2025-02/tile_942_02_660x316px.jpg" />
+	<programme channel="Ria897" start="20251028100000 +0800" stop="20251028120000 +0800">
+		<title>Oh My Gurls (Dalina)</title>
+		<desc>&lt;p&gt;Be enthralled with a plethora of information exploring on fun facts, health tips and bizarre facts that will definitely arouse curiosity and interest! In addition, listeners can also partake in #2Baris, a poem segment that will be the inducement of much hilarity!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;#OhMyGurls #RIA897 #1SGRadioNetwork&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740376600/mediacorp/mel/image/2025-02/tile_897_02_dalina_660x316px.jpg" />
 	</programme>
-	<programme channel="Warna942" start="20251021140000 +0800" stop="20251021170000 +0800">
-		<title>Warna Petang</title>
-		<desc>&lt;p&gt;An afternoon of dramatised short stories by local Malay authors, discussion of health, law &amp;amp; social topics, appreciation of Pantun and showcase of listeners' karaoke talent.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740627924/mediacorp/mel/image/2025-02/tile_942_03_660x316px.jpg" />
+	<programme channel="Ria897" start="20251028120000 +0800" stop="20251028140000 +0800">
+		<title>Oh My Gurls (Dalina and Rarah)</title>
+		<desc>&lt;p&gt;These wondrous duos will furnish you with a surfeit information of the latest celebrity news together with cafés and viral food information that will definitely satisfy your cravings!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;#OhMyGurls #RIA897 #1SGRadioNetwork&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740377016/mediacorp/mel/image/2025-02/tile_897_02_dalinararah_660x316px.jpg" />
 	</programme>
-	<programme channel="Warna942" start="20251021170000 +0800" stop="20251021210000 +0800">
-		<title>Dinamika Warna</title>
-		<desc>&lt;p&gt;Your live entertainment during evening drive home with the affable &amp;amp; charming duo, RZ &amp;amp; TG. Serving bite sized lifestyle and entertainment info and a lot of bantering. ..And food in “Selera Dinamika”.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740628020/mediacorp/mel/image/2025-02/tile_942_04_660x316px.jpg" />
+	<programme channel="Ria897" start="20251028140000 +0800" stop="20251028170000 +0800">
+		<title>RIA Mania</title>
+		<desc>&lt;p&gt;Free and easy listening&lt;/p&gt;
+
+&lt;p&gt;#RIAMania&amp;nbsp;#RIA897#1SGRadioNetwork&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1688544078/mediacorp/mel/image/2023-07/897-tile-660x316px.jpg" />
 	</programme>
-	<programme channel="Warna942" start="20251021210000 +0800" stop="20251022000000 +0800">
-		<title>Serambi Warna</title>
-		<desc>&lt;p&gt;Melt into the Words of Wisdom every weekday night in SERAMBI WARNA with Noreha Bajuri. Joined by Elfie Rafiee on Tuesday &amp;amp; Thursday, they will bring to you songs of yesteryears and engage in interactive topics with celebrities and experts&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740628392/mediacorp/mel/image/2025-02/tile_942_06_660x316px.jpg" />
+	<programme channel="Ria897" start="20251028170000 +0800" stop="20251028200000 +0800">
+		<title>RIA Kruz</title>
+		<desc>&lt;p&gt;Cruise your way home with compelling subject matters that will evoke one’s curiosity and interest! Such instances are those related to youths, gender issues, sports news and updates and many more!&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;#RIAKruz&amp;nbsp;#RIA897 #1SGRadioNetwork&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1746469107/mediacorp/mel/image/2025-05/tile_897_03_fadli_660x316px.jpg" />
+	</programme>
+	<programme channel="Ria897" start="20251028200000 +0800" stop="20251028230000 +0800">
+		<title>Malam Masih Muda (3M)</title>
+		<desc>&lt;p&gt;A specially curated program filled with Indie and love songs. Also bursting at the seams with quizzes, singing challenge segment, out of the world information and love confessions by listeners. Azura Goh and Ezam Ernady will also be sharing their thoughts on love issues and this will definitely jostle one’s mind and funny bone!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;#MalamMasihMuda #RIA897 #1SGRadioNetwork&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740377242/mediacorp/mel/image/2025-02/tile_897_04_azuraezam_660x316px.jpg" />
+	</programme>
+	<programme channel="Ria897" start="20251028230000 +0800" stop="20251029000000 +0800">
+		<title>WASSUP LOVE</title>
+		<desc>#MalamMasihMuda #RIA897 #1SGRadioNetwork&lt;br /&gt;
+&amp;nbsp;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1705308861/mediacorp/mel/image/2024-01/897-tile-660x316px.jpg" />
 	</programme>
 	<programme channel="Warna942" start="20251022000000 +0800" stop="20251022010000 +0800">
 		<title>Rock Klasik Warna</title>
@@ -3308,50 +3273,40 @@ Intersperse with information on Korean artistes and happenings.&lt;br /&gt;
 		<desc>&lt;p&gt;Melt into the Words of Wisdom every weekday night in SERAMBI WARNA with Noreha Bajuri. Joined by Elfie Rafiee on Tuesday &amp;amp; Thursday, they will bring to you songs of yesteryears and engage in interactive topics with celebrities and experts&lt;/p&gt;</desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740628284/mediacorp/mel/image/2025-02/tile_942_05_660x316px.jpg" />
 	</programme>
-	<programme channel="Oli968" start="20251021000000 +0800" stop="20251021010000 +0800">
-		<title>Iravinil Aattam</title>
-		<desc>&lt;p&gt;Tune in to Iravinil Aattam – the perfect way to unwind after a hard day's work! Let our selection of old tunes evoke nostalgia and melody hits keep you company!&amp;nbsp;&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740623240/mediacorp/mel/image/2025-02/tile_968_04_660x316px.jpg" />
+	<programme channel="Warna942" start="20251028000000 +0800" stop="20251028010000 +0800">
+		<title>Rock Klasik Warna</title>
+		<desc />
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675216398/mediacorp/mel/image/2023-02/942-Tile-660x316px_8.jpg" />
 	</programme>
-	<programme channel="Oli968" start="20251021010000 +0800" stop="20251021050000 +0800">
-		<title>For Your Listening Pleasure</title>
-		<desc>&lt;p&gt;Non-stop Tamil hits from the various eras.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675217981/mediacorp/mel/image/2023-02/968-Tile-660x316px_3.jpg" />
+	<programme channel="Warna942" start="20251028010000 +0800" stop="20251028063000 +0800">
+		<title>Panorama Warna</title>
+		<desc />
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675216613/mediacorp/mel/image/2023-02/942-Tile-660x316px_14.jpg" />
 	</programme>
-	<programme channel="Oli968" start="20251021050000 +0800" stop="20251021060000 +0800">
-		<title>Classical Songs</title>
-		<desc>&lt;p&gt;Non-stop classical songs for your listening pleasure.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675218165/mediacorp/mel/image/2023-02/968-Tile-660x316px_7.jpg" />
+	<programme channel="Warna942" start="20251028063000 +0800" stop="20251028100000 +0800">
+		<title>Espresso Warna</title>
+		<desc>&lt;p&gt;One stop lively morning show that serves daily insight, current affairs and a whole lot of laughter, together with their alter ego, “Pak Abu” &amp;amp; “Cik Yam”.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740627751/mediacorp/mel/image/2025-02/tile_942_01_660x316px.jpg" />
 	</programme>
-	<programme channel="Oli968" start="20251021060000 +0800" stop="20251021100000 +0800">
-		<title>Vanakkam Singai</title>
-		<desc>&lt;p&gt;Kick-start your mornings with Rafi and Haleema! Do you want to hear the latest happenings in the world, topped with your favourite hits and loads of fun stuff? You will start your day with a smile on your face. Motivational anecdotes, hot topics from around the world, intriguing games and more!&amp;nbsp;&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740622610/mediacorp/mel/image/2025-02/tile_968_01_660x316px.jpg" />
+	<programme channel="Warna942" start="20251028100000 +0800" stop="20251028140000 +0800">
+		<title>Warna Vista</title>
+		<desc>&lt;p&gt;It's a lunch date with Aura Shai! Be delighted with food recipes and engaging family-motivated segments.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740627824/mediacorp/mel/image/2025-02/tile_942_02_660x316px.jpg" />
 	</programme>
-	<programme channel="Oli968" start="20251021100000 +0800" stop="20251021140000 +0800">
-		<title>Anantham Arambam</title>
-		<desc>&lt;p&gt;Tantalizing your afternoons with the best hits from various eras! Accompanying you are a wide reportoire of puns, cooking recipes, and tech hacks, at the lunch hour! You wouldn’t want to miss it! So make a date with Vimala and Nithiyia!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740622698/mediacorp/mel/image/2025-02/tile_968_02_660x316px.jpg" />
+	<programme channel="Warna942" start="20251028140000 +0800" stop="20251028170000 +0800">
+		<title>Warna Petang</title>
+		<desc>&lt;p&gt;An afternoon of dramatised short stories by local Malay authors, discussion of health, law &amp;amp; social topics, appreciation of Pantun and showcase of listeners' karaoke talent.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740627924/mediacorp/mel/image/2025-02/tile_942_03_660x316px.jpg" />
 	</programme>
-	<programme channel="Oli968" start="20251021140000 +0800" stop="20251021160000 +0800">
-		<title>For Your Listening Pleasure</title>
-		<desc>&lt;p&gt;Non-stop non-tamil songs from the various eras. (Hindi, Telugu, Malayalam, Bengali)&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675218031/mediacorp/mel/image/2023-02/968-Tile-660x316px_4.jpg" />
+	<programme channel="Warna942" start="20251028170000 +0800" stop="20251028210000 +0800">
+		<title>Dinamika Warna</title>
+		<desc>&lt;p&gt;Your live entertainment during evening drive home with the affable &amp;amp; charming duo, RZ &amp;amp; TG. Serving bite sized lifestyle and entertainment info and a lot of bantering. ..And food in “Selera Dinamika”.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740628020/mediacorp/mel/image/2025-02/tile_942_04_660x316px.jpg" />
 	</programme>
-	<programme channel="Oli968" start="20251021160000 +0800" stop="20251021200000 +0800">
-		<title>Tea Kadai</title>
-		<desc>&lt;p&gt;Say goodbye to your stress with Ravi G and Sajini on Tea Kadai! They'll drive you back home with lots of LOLs, relentless banter and lots of exciting infotainment! Popular hits, loads of creative games and fun stuff that will make your evenings a fabulous one!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740622797/mediacorp/mel/image/2025-02/tile_968_03_660x316px.jpg" />
-	</programme>
-	<programme channel="Oli968" start="20251021200000 +0800" stop="20251021210000 +0800">
-		<title>For Your Listening Pleasure</title>
-		<desc>&lt;p&gt;Non-stop latest Hindi hits.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675218121/mediacorp/mel/image/2023-02/968-Tile-660x316px_6.jpg" />
-	</programme>
-	<programme channel="Oli968" start="20251021210000 +0800" stop="20251022000000 +0800">
-		<title>Iravinil Aattam</title>
-		<desc>&lt;p&gt;Tune in to Iravinil Aattam – the perfect way to unwind after a hard day's work! Let our selection of old tunes evoke nostalgia and melody hits keep you company!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740623240/mediacorp/mel/image/2025-02/tile_968_04_660x316px.jpg" />
+	<programme channel="Warna942" start="20251028210000 +0800" stop="20251029000000 +0800">
+		<title>Serambi Warna</title>
+		<desc>&lt;p&gt;Melt into the Words of Wisdom every weekday night in SERAMBI WARNA with Noreha Bajuri. Joined by Elfie Rafiee on Tuesday &amp;amp; Thursday, they will bring to you songs of yesteryears and engage in interactive topics with celebrities and experts&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740628392/mediacorp/mel/image/2025-02/tile_942_06_660x316px.jpg" />
 	</programme>
 	<programme channel="Oli968" start="20251022000000 +0800" stop="20251022010000 +0800">
 		<title>Iravinil Aattam</title>
@@ -3613,40 +3568,50 @@ Intersperse with information on Korean artistes and happenings.&lt;br /&gt;
 		<desc>&lt;p&gt;Tune in to Iravinil Aattam – the perfect way to unwind after a hard day's work! Let our selection of old tunes evoke nostalgia and melody hits keep you company!&lt;/p&gt;</desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740623240/mediacorp/mel/image/2025-02/tile_968_04_660x316px.jpg" />
 	</programme>
-	<programme channel="indiego" start="20251021000000 +0800" stop="20251021020000 +0800">
-		<title>Under The Radar</title>
-		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211811/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_3.jpg" />
+	<programme channel="Oli968" start="20251028000000 +0800" stop="20251028010000 +0800">
+		<title>Iravinil Aattam</title>
+		<desc>&lt;p&gt;Tune in to Iravinil Aattam – the perfect way to unwind after a hard day's work! Let our selection of old tunes evoke nostalgia and melody hits keep you company!&amp;nbsp;&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740623240/mediacorp/mel/image/2025-02/tile_968_04_660x316px.jpg" />
 	</programme>
-	<programme channel="indiego" start="20251021020000 +0800" stop="20251021060000 +0800">
-		<title>Satellite Radio</title>
-		<desc>&lt;p&gt;All that ambient, jazz and instrumental!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211507/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_0.jpg" />
+	<programme channel="Oli968" start="20251028010000 +0800" stop="20251028050000 +0800">
+		<title>For Your Listening Pleasure</title>
+		<desc>&lt;p&gt;Non-stop Tamil hits from the various eras.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675217981/mediacorp/mel/image/2023-02/968-Tile-660x316px_3.jpg" />
 	</programme>
-	<programme channel="indiego" start="20251021060000 +0800" stop="20251021100000 +0800">
-		<title>Golden Hour</title>
-		<desc>&lt;p&gt;Soft Rock, Old School Sounding Soul &amp;amp; Analog Instrumentals to start your day.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211924/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_5.jpg" />
+	<programme channel="Oli968" start="20251028050000 +0800" stop="20251028060000 +0800">
+		<title>Classical Songs</title>
+		<desc>&lt;p&gt;Non-stop classical songs for your listening pleasure.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675218165/mediacorp/mel/image/2023-02/968-Tile-660x316px_7.jpg" />
 	</programme>
-	<programme channel="indiego" start="20251021100000 +0800" stop="20251021140000 +0800">
-		<title>Fireside</title>
-		<desc>&lt;p&gt;Kick back with music from&amp;nbsp;singer-songwriters and folk-pop.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211634/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_1.jpg" />
+	<programme channel="Oli968" start="20251028060000 +0800" stop="20251028100000 +0800">
+		<title>Vanakkam Singai</title>
+		<desc>&lt;p&gt;Kick-start your mornings with Rafi and Haleema! Do you want to hear the latest happenings in the world, topped with your favourite hits and loads of fun stuff? You will start your day with a smile on your face. Motivational anecdotes, hot topics from around the world, intriguing games and more!&amp;nbsp;&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740622610/mediacorp/mel/image/2025-02/tile_968_01_660x316px.jpg" />
 	</programme>
-	<programme channel="indiego" start="20251021140000 +0800" stop="20251021180000 +0800">
-		<title>.wavlengths</title>
-		<desc>&lt;p&gt;Indie/alt pop-rock and everything in between!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212157/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_9.jpg" />
+	<programme channel="Oli968" start="20251028100000 +0800" stop="20251028140000 +0800">
+		<title>Anantham Arambam</title>
+		<desc>&lt;p&gt;Tantalizing your afternoons with the best hits from various eras! Accompanying you are a wide reportoire of puns, cooking recipes, and tech hacks, at the lunch hour! You wouldn’t want to miss it! So make a date with Vimala and Nithiyia!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740622698/mediacorp/mel/image/2025-02/tile_968_02_660x316px.jpg" />
 	</programme>
-	<programme channel="indiego" start="20251021180000 +0800" stop="20251021220000 +0800">
-		<title>Flipside</title>
-		<desc>&lt;p&gt;Welcome to hip-hop/modern r&amp;amp;b on the flipside!&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212564/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_13.jpg" />
+	<programme channel="Oli968" start="20251028140000 +0800" stop="20251028160000 +0800">
+		<title>For Your Listening Pleasure</title>
+		<desc>&lt;p&gt;Non-stop non-tamil songs from the various eras. (Hindi, Telugu, Malayalam, Bengali)&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675218031/mediacorp/mel/image/2023-02/968-Tile-660x316px_4.jpg" />
 	</programme>
-	<programme channel="indiego" start="20251021220000 +0800" stop="20251022000000 +0800">
-		<title>Under The Radar</title>
-		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers.&amp;nbsp;&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211870/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_4.jpg" />
+	<programme channel="Oli968" start="20251028160000 +0800" stop="20251028200000 +0800">
+		<title>Tea Kadai</title>
+		<desc>&lt;p&gt;Say goodbye to your stress with Ravi G and Sajini on Tea Kadai! They'll drive you back home with lots of LOLs, relentless banter and lots of exciting infotainment! Popular hits, loads of creative games and fun stuff that will make your evenings a fabulous one!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740622797/mediacorp/mel/image/2025-02/tile_968_03_660x316px.jpg" />
+	</programme>
+	<programme channel="Oli968" start="20251028200000 +0800" stop="20251028210000 +0800">
+		<title>For Your Listening Pleasure</title>
+		<desc>&lt;p&gt;Non-stop latest Hindi hits.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675218121/mediacorp/mel/image/2023-02/968-Tile-660x316px_6.jpg" />
+	</programme>
+	<programme channel="Oli968" start="20251028210000 +0800" stop="20251029000000 +0800">
+		<title>Iravinil Aattam</title>
+		<desc>&lt;p&gt;Tune in to Iravinil Aattam – the perfect way to unwind after a hard day's work! Let our selection of old tunes evoke nostalgia and melody hits keep you company!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740623240/mediacorp/mel/image/2025-02/tile_968_04_660x316px.jpg" />
 	</programme>
 	<programme channel="indiego" start="20251022000000 +0800" stop="20251022020000 +0800">
 		<title>Under The Radar</title>
@@ -3864,6 +3829,41 @@ Intersperse with information on Korean artistes and happenings.&lt;br /&gt;
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212564/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_13.jpg" />
 	</programme>
 	<programme channel="indiego" start="20251027220000 +0800" stop="20251028000000 +0800">
+		<title>Under The Radar</title>
+		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers.&amp;nbsp;&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211870/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_4.jpg" />
+	</programme>
+	<programme channel="indiego" start="20251028000000 +0800" stop="20251028020000 +0800">
+		<title>Under The Radar</title>
+		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211811/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_3.jpg" />
+	</programme>
+	<programme channel="indiego" start="20251028020000 +0800" stop="20251028060000 +0800">
+		<title>Satellite Radio</title>
+		<desc>&lt;p&gt;All that ambient, jazz and instrumental!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211507/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_0.jpg" />
+	</programme>
+	<programme channel="indiego" start="20251028060000 +0800" stop="20251028100000 +0800">
+		<title>Golden Hour</title>
+		<desc>&lt;p&gt;Soft Rock, Old School Sounding Soul &amp;amp; Analog Instrumentals to start your day.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211924/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_5.jpg" />
+	</programme>
+	<programme channel="indiego" start="20251028100000 +0800" stop="20251028140000 +0800">
+		<title>Fireside</title>
+		<desc>&lt;p&gt;Kick back with music from&amp;nbsp;singer-songwriters and folk-pop.&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211634/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_1.jpg" />
+	</programme>
+	<programme channel="indiego" start="20251028140000 +0800" stop="20251028180000 +0800">
+		<title>.wavlengths</title>
+		<desc>&lt;p&gt;Indie/alt pop-rock and everything in between!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212157/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_9.jpg" />
+	</programme>
+	<programme channel="indiego" start="20251028180000 +0800" stop="20251028220000 +0800">
+		<title>Flipside</title>
+		<desc>&lt;p&gt;Welcome to hip-hop/modern r&amp;amp;b on the flipside!&lt;/p&gt;</desc>
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675212564/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_13.jpg" />
+	</programme>
+	<programme channel="indiego" start="20251028220000 +0800" stop="20251029000000 +0800">
 		<title>Under The Radar</title>
 		<desc>&lt;p&gt;We're all about those underground electronic and dance bangers.&amp;nbsp;&lt;/p&gt;</desc>
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675211870/mediacorp/mel/image/2023-02/indiego-Tile-660x316px_4.jpg" />
