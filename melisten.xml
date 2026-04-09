@@ -132,10 +132,15 @@ Twitter : Class95FM&lt;/p&gt;</desc>
 		<desc />
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1772419668/mediacorp/mel/image/2026-03/tile_c95_jeanedward_660x316px.jpg" />
 	</programme>
-	<programme channel="Class95" start="20260411200000 +0800" stop="20260412000000 +0800">
+	<programme channel="Class95" start="20260411200000 +0800" stop="20260411220000 +0800">
 		<title>Class 95: Playlist</title>
 		<desc />
 		<icon src="https://onecms-res.cloudinary.com/image/upload/v1767368616/mediacorp/mel/image/2026-01/95_tile_660x316px_0.jpg_0.png" />
+	</programme>
+	<programme channel="Class95" start="20260411220000 +0800" stop="20260412000000 +0800">
+		<title>Class 95 Weekends</title>
+		<desc />
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1675214213/mediacorp/mel/image/2023-02/95-Tile-660x316px_2.jpg" />
 	</programme>
 	<programme channel="Class95" start="20260412000000 +0800" stop="20260412100000 +0800">
 		<title>The Best Mix of Music</title>
@@ -3059,7 +3064,7 @@ Intersperse with information on Korean artistes and happenings.&lt;br /&gt;
 	<programme channel="Warna942" start="20260409063000 +0800" stop="20260409100000 +0800">
 		<title>Espresso Warna</title>
 		<desc>&lt;p&gt;One stop lively morning show that serves daily insight, current affairs and a whole lot of laughter, together with their alter ego, “Pak Abu” &amp;amp; “Cik Yam”.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740627751/mediacorp/mel/image/2025-02/tile_942_01_660x316px.jpg" />
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1775728806/mediacorp/mel/image/2026-04/942_tile_660x316px_espresso.jpg" />
 	</programme>
 	<programme channel="Warna942" start="20260409100000 +0800" stop="20260409140000 +0800">
 		<title>Warna Vista</title>
@@ -3094,7 +3099,7 @@ Intersperse with information on Korean artistes and happenings.&lt;br /&gt;
 	<programme channel="Warna942" start="20260410063000 +0800" stop="20260410100000 +0800">
 		<title>Espresso Warna</title>
 		<desc>&lt;p&gt;One stop lively morning show that serves daily insight, current affairs and a whole lot of laughter, together with their alter ego, “Pak Abu” &amp;amp; “Cik Yam”.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740627751/mediacorp/mel/image/2025-02/tile_942_01_660x316px.jpg" />
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1775728806/mediacorp/mel/image/2026-04/942_tile_660x316px_espresso.jpg" />
 	</programme>
 	<programme channel="Warna942" start="20260410100000 +0800" stop="20260410140000 +0800">
 		<title>Warna Vista</title>
@@ -3249,7 +3254,7 @@ Intersperse with information on Korean artistes and happenings.&lt;br /&gt;
 	<programme channel="Warna942" start="20260413063000 +0800" stop="20260413100000 +0800">
 		<title>Espresso Warna</title>
 		<desc>&lt;p&gt;One stop lively morning show that serves daily insight, current affairs and a whole lot of laughter, together with their alter ego, “Pak Abu” &amp;amp; “Cik Yam”.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740627751/mediacorp/mel/image/2025-02/tile_942_01_660x316px.jpg" />
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1775728806/mediacorp/mel/image/2026-04/942_tile_660x316px_espresso.jpg" />
 	</programme>
 	<programme channel="Warna942" start="20260413100000 +0800" stop="20260413140000 +0800">
 		<title>Warna Vista</title>
@@ -3284,7 +3289,7 @@ Intersperse with information on Korean artistes and happenings.&lt;br /&gt;
 	<programme channel="Warna942" start="20260414063000 +0800" stop="20260414100000 +0800">
 		<title>Espresso Warna</title>
 		<desc>&lt;p&gt;One stop lively morning show that serves daily insight, current affairs and a whole lot of laughter, together with their alter ego, “Pak Abu” &amp;amp; “Cik Yam”.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740627751/mediacorp/mel/image/2025-02/tile_942_01_660x316px.jpg" />
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1775728806/mediacorp/mel/image/2026-04/942_tile_660x316px_espresso.jpg" />
 	</programme>
 	<programme channel="Warna942" start="20260414100000 +0800" stop="20260414140000 +0800">
 		<title>Warna Vista</title>
@@ -3319,7 +3324,7 @@ Intersperse with information on Korean artistes and happenings.&lt;br /&gt;
 	<programme channel="Warna942" start="20260415063000 +0800" stop="20260415100000 +0800">
 		<title>Espresso Warna</title>
 		<desc>&lt;p&gt;One stop lively morning show that serves daily insight, current affairs and a whole lot of laughter, together with their alter ego, “Pak Abu” &amp;amp; “Cik Yam”.&lt;/p&gt;</desc>
-		<icon src="https://onecms-res.cloudinary.com/image/upload/v1740627751/mediacorp/mel/image/2025-02/tile_942_01_660x316px.jpg" />
+		<icon src="https://onecms-res.cloudinary.com/image/upload/v1775728806/mediacorp/mel/image/2026-04/942_tile_660x316px_espresso.jpg" />
 	</programme>
 	<programme channel="Warna942" start="20260415100000 +0800" stop="20260415140000 +0800">
 		<title>Warna Vista</title>
